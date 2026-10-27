@@ -1,0 +1,2148 @@
+{
+  "upstream_revision": "b1c24dfbe30229941d192abc52b99c6fd2d28c81",
+  "count": 306,
+  "videos": [
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__cogvideo_i2v_f113_prefix__task_0168__episode_0001__1__task_0168_episode_0001",
+      "upstream_file": "robojudge__0019_robojudge_test_data__robotwin__generated_data__cogvideo_i2v_f113_prefix__task_0168__episode_0001__1__task_0168_episode_0001.mp4",
+      "file": "videos/e7dc797c72aeb485295b262433709de2f70dbeb718c081af355a59168c6db2ed.mp4",
+      "bytes": 550873,
+      "sha256": "e7dc797c72aeb485295b262433709de2f70dbeb718c081af355a59168c6db2ed"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0070__episode_0001__1__task_0070_episode_0001",
+      "upstream_file": "robojudge__0105_robojudge_test_data__open_x_embodiment__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0070__episode_0001__1__task_0070_episode_0001.mp4",
+      "file": "videos/6fca8ae5bd2e3014322d1e725c2fc08f5a84d6f6654f83f9276a8b7707faacd1.mp4",
+      "bytes": 838174,
+      "sha256": "6fca8ae5bd2e3014322d1e725c2fc08f5a84d6f6654f83f9276a8b7707faacd1"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wow_wan14b_f105_rewrite__task_0005__episode_0001__1__task_0005_episode_0001",
+      "upstream_file": "robojudge__0106_robojudge_test_data__gr1_inlab__generated_data__wow_wan14b_f105_rewrite__task_0005__episode_0001__1__task_0005_episode_0001.mp4",
+      "file": "videos/83ad6ab485ab72366d437773fa7aa275a623362ded2c7e31895126fe9021feda.mp4",
+      "bytes": 423429,
+      "sha256": "83ad6ab485ab72366d437773fa7aa275a623362ded2c7e31895126fe9021feda"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0146__episode_0001__1__task_0146_episode_0001",
+      "upstream_file": "robojudge__0107_robojudge_test_data__robotwin__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0146__episode_0001__1__task_0146_episode_0001.mp4",
+      "file": "videos/114615de1baf39ebcdf262fba09c3a0320bf8a2f0c66d322afc1ee0eaafbf0e8.mp4",
+      "bytes": 6325170,
+      "sha256": "114615de1baf39ebcdf262fba09c3a0320bf8a2f0c66d322afc1ee0eaafbf0e8"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wow_wan14b_f105_prefix__task_0057__episode_0001__1__task_0057_episode_0001",
+      "upstream_file": "robojudge__0133_robojudge_test_data__gr1_inlab__generated_data__wow_wan14b_f105_prefix__task_0057__episode_0001__1__task_0057_episode_0001.mp4",
+      "file": "videos/3303d49330d57272edbbc0e42c6d21000ace5591d5954e49ad97535b1a2c6aab.mp4",
+      "bytes": 413965,
+      "sha256": "3303d49330d57272edbbc0e42c6d21000ace5591d5954e49ad97535b1a2c6aab"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0099__episode_0001__1__task_0099_episode_0001",
+      "upstream_file": "robojudge__0364_robojudge_test_data__agibot_world__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0099__episode_0001__1__task_0099_episode_0001.mp4",
+      "file": "videos/89568d0e0ea92564a6fa9f492960d1b8a71771f9b5e9cf6dc15cfb26820a3e32.mp4",
+      "bytes": 8882417,
+      "sha256": "89568d0e0ea92564a6fa9f492960d1b8a71771f9b5e9cf6dc15cfb26820a3e32"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__cogvideo_i2v_f113_rewrite__task_0184__episode_0001__1__task_0184_episode_0001",
+      "upstream_file": "robojudge__0411_robojudge_test_data__agibot_world__generated_data__cogvideo_i2v_f113_rewrite__task_0184__episode_0001__1__task_0184_episode_0001.mp4",
+      "file": "videos/9dedf3468816dfa2b98abad5ab3b7abfe5ec5888799b2b80026a537d81f60f6f.mp4",
+      "bytes": 1171638,
+      "sha256": "9dedf3468816dfa2b98abad5ab3b7abfe5ec5888799b2b80026a537d81f60f6f"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0116__episode_0001__1__task_0116_episode_0001",
+      "upstream_file": "robojudge__0091_robojudge_test_data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0116__episode_0001__1__task_0116_episode_0001.mp4",
+      "file": "videos/26415f7d033c2f831f1eb2d2c364c335e97968f85b3b859f470383f012a6a16d.mp4",
+      "bytes": 11113074,
+      "sha256": "26415f7d033c2f831f1eb2d2c364c335e97968f85b3b859f470383f012a6a16d"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wan26_flash_rewrite__task_0028__episode_0001__1__task_0028_episode_0001",
+      "upstream_file": "robojudge__0101_robojudge_test_data__gr1_inlab__generated_data__wan26_flash_rewrite__task_0028__episode_0001__1__task_0028_episode_0001.mp4",
+      "file": "videos/84e4ec988f04a0a290f2f513f296ea675279dbb8f4717808a787a3ec90bf60ce.mp4",
+      "bytes": 2936691,
+      "sha256": "84e4ec988f04a0a290f2f513f296ea675279dbb8f4717808a787a3ec90bf60ce"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__abot_physworld_f113_prefix__task_0133__episode_0001__1__task_0133_episode_0001",
+      "upstream_file": "robojudge__0137_robojudge_test_data__robotwin__generated_data__abot_physworld_f113_prefix__task_0133__episode_0001__1__task_0133_episode_0001.mp4",
+      "file": "videos/9c61cd3136e43fbb2dca6594ad953e657e5b8dda9a2ac2ba81ae39b9b4fdf719.mp4",
+      "bytes": 482272,
+      "sha256": "9c61cd3136e43fbb2dca6594ad953e657e5b8dda9a2ac2ba81ae39b9b4fdf719"
+    },
+    {
+      "record_id": "robojudge::test::data__droid__generated_data__cogvideo_i2v_f113_prefix__task_0186__episode_0001__1__task_0186_episode_0001",
+      "upstream_file": "robojudge__0160_robojudge_test_data__droid__generated_data__cogvideo_i2v_f113_prefix__task_0186__episode_0001__1__task_0186_episode_0001.mp4",
+      "file": "videos/f06770d0efe6cd10321a5a89e52ec035beee9e7459a709e1a8d09148466f9888.mp4",
+      "bytes": 703163,
+      "sha256": "f06770d0efe6cd10321a5a89e52ec035beee9e7459a709e1a8d09148466f9888"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0096__episode_0001__1__task_0096_episode_0001",
+      "upstream_file": "robojudge__0220_robojudge_test_data__egodex_human__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0096__episode_0001__1__task_0096_episode_0001.mp4",
+      "file": "videos/a0e8a1ce4b74d9120fcc4f6ec5b69423f87c857fd4acff0fc99a80cfdc2b3aa7.mp4",
+      "bytes": 724335,
+      "sha256": "a0e8a1ce4b74d9120fcc4f6ec5b69423f87c857fd4acff0fc99a80cfdc2b3aa7"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__wow_wan14b_f105_rewrite__task_0085__episode_0001__1__task_0085_episode_0001",
+      "upstream_file": "robojudge__0225_robojudge_test_data__egodex_human__generated_data__wow_wan14b_f105_rewrite__task_0085__episode_0001__1__task_0085_episode_0001.mp4",
+      "file": "videos/b6e38ce80d6d8b8aeccdbed0c22167d1159347a9976fa2d70f728719b6edb557.mp4",
+      "bytes": 265871,
+      "sha256": "b6e38ce80d6d8b8aeccdbed0c22167d1159347a9976fa2d70f728719b6edb557"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0014__episode_0001__1__task_0014_episode_0001",
+      "upstream_file": "robojudge__0274_robojudge_test_data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0014__episode_0001__1__task_0014_episode_0001.mp4",
+      "file": "videos/50d1344396951d8807eaa0e544ae118bb4510a93dc4db4cb8eac1b1dd54f1a33.mp4",
+      "bytes": 10633211,
+      "sha256": "50d1344396951d8807eaa0e544ae118bb4510a93dc4db4cb8eac1b1dd54f1a33"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0025__episode_0001__1__task_0025_episode_0001",
+      "upstream_file": "robojudge__0474_robojudge_test_data__robotwin__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0025__episode_0001__1__task_0025_episode_0001.mp4",
+      "file": "videos/51cc0bf1a2dee2bdf65930fed8d2b6e0a37dbfa9386684c2919af7bab03c4763.mp4",
+      "bytes": 6304007,
+      "sha256": "51cc0bf1a2dee2bdf65930fed8d2b6e0a37dbfa9386684c2919af7bab03c4763"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__happyhorse_prefix__task_0107__episode_0001__1__task_0107_episode_0001",
+      "upstream_file": "robojudge__0053_robojudge_test_data__robotwin__generated_data__happyhorse_prefix__task_0107__episode_0001__1__task_0107_episode_0001.mp4",
+      "file": "videos/2a6998e94e9cd887b0bc692e7727d31a26bd1512c38cedde75ea804da3cd1793.mp4",
+      "bytes": 1237360,
+      "sha256": "2a6998e94e9cd887b0bc692e7727d31a26bd1512c38cedde75ea804da3cd1793"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0097__episode_0001__1__task_0097_episode_0001",
+      "upstream_file": "robojudge__0109_robojudge_test_data__gr1_inlab__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0097__episode_0001__1__task_0097_episode_0001.mp4",
+      "file": "videos/039d94704c84626a93455f8ef9d2f24315e9b477e35682acf3180fc8e7dd6f11.mp4",
+      "bytes": 1223998,
+      "sha256": "039d94704c84626a93455f8ef9d2f24315e9b477e35682acf3180fc8e7dd6f11"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__wan26_flash_rewrite__task_0038__episode_0001__1__task_0038_episode_0001",
+      "upstream_file": "robojudge__0135_robojudge_test_data__egodex_human__generated_data__wan26_flash_rewrite__task_0038__episode_0001__1__task_0038_episode_0001.mp4",
+      "file": "videos/322ca1cff0e3e8bae372c445c588cd66ad4c53a9acac9143c337b7bc81ee1326.mp4",
+      "bytes": 1035630,
+      "sha256": "322ca1cff0e3e8bae372c445c588cd66ad4c53a9acac9143c337b7bc81ee1326"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__wan26_flash_prefix__task_0091__episode_0001__1__task_0091_episode_0001",
+      "upstream_file": "robojudge__0201_robojudge_test_data__agibot_world__generated_data__wan26_flash_prefix__task_0091__episode_0001__1__task_0091_episode_0001.mp4",
+      "file": "videos/8e5c3373a0c9531eb79b309fc6bfa24d70b169c3e0a78f260c3de7374151c7f0.mp4",
+      "bytes": 2026792,
+      "sha256": "8e5c3373a0c9531eb79b309fc6bfa24d70b169c3e0a78f260c3de7374151c7f0"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0009__episode_0001__1__task_0009_episode_0001",
+      "upstream_file": "robojudge__0253_robojudge_test_data__open_x_embodiment__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0009__episode_0001__1__task_0009_episode_0001.mp4",
+      "file": "videos/fd53ca528b46d9a2690dc88be1068a050bd017d10beaf40b08951b5072be56bc.mp4",
+      "bytes": 390411,
+      "sha256": "fd53ca528b46d9a2690dc88be1068a050bd017d10beaf40b08951b5072be56bc"
+    },
+    {
+      "record_id": "robojudge::test::data__droid__generated_data__kling_rewrite__task_0104__episode_0001__1__task_0104_episode_0001",
+      "upstream_file": "robojudge__0269_robojudge_test_data__droid__generated_data__kling_rewrite__task_0104__episode_0001__1__task_0104_episode_0001.mp4",
+      "file": "videos/e101f84c817a486d02cfcff366aaa8c8099140f6507671bd5ba0355324baf3d2.mp4",
+      "bytes": 2444441,
+      "sha256": "e101f84c817a486d02cfcff366aaa8c8099140f6507671bd5ba0355324baf3d2"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0065__episode_0001__1__task_0065_episode_0001",
+      "upstream_file": "robojudge__0273_robojudge_test_data__egodex_human__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0065__episode_0001__1__task_0065_episode_0001.mp4",
+      "file": "videos/a636cba11724101bfbdb833ecca81324dcb50556f89970c5273741eb525dae7f.mp4",
+      "bytes": 7703713,
+      "sha256": "a636cba11724101bfbdb833ecca81324dcb50556f89970c5273741eb525dae7f"
+    },
+    {
+      "record_id": "robojudge::test::data__droid__generated_data__gigaworld_gr1_2b_f113_prefix__task_0085__episode_0001__1__task_0085_episode_0001",
+      "upstream_file": "robojudge__0275_robojudge_test_data__droid__generated_data__gigaworld_gr1_2b_f113_prefix__task_0085__episode_0001__1__task_0085_episode_0001.mp4",
+      "file": "videos/f38e43b0737142d9ae7b37889c74b390e6b52c6a38d16b63c41ab08b968d608d.mp4",
+      "bytes": 363875,
+      "sha256": "f38e43b0737142d9ae7b37889c74b390e6b52c6a38d16b63c41ab08b968d608d"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0045__episode_0001__1__task_0045_episode_0001",
+      "upstream_file": "robojudge__0280_robojudge_test_data__agibot_world__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0045__episode_0001__1__task_0045_episode_0001.mp4",
+      "file": "videos/e661632b669e6164a02b54baf31dc3bb0d1cf1e029665fc09f7265c8ca763849.mp4",
+      "bytes": 7150094,
+      "sha256": "e661632b669e6164a02b54baf31dc3bb0d1cf1e029665fc09f7265c8ca763849"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__cosmos3_rewrite__task_0036__episode_0001__1__task_0036_episode_0001",
+      "upstream_file": "robojudge__0292_robojudge_test_data__robotwin__generated_data__cosmos3_rewrite__task_0036__episode_0001__1__task_0036_episode_0001.mp4",
+      "file": "videos/c10d34899f7c75739c697aef3a3b69e397e01f1e993f921202820210d1f5a7ed.mp4",
+      "bytes": 209709,
+      "sha256": "c10d34899f7c75739c697aef3a3b69e397e01f1e993f921202820210d1f5a7ed"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0134__episode_0001__1__task_0134_episode_0001",
+      "upstream_file": "robojudge__0318_robojudge_test_data__robotwin__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0134__episode_0001__1__task_0134_episode_0001.mp4",
+      "file": "videos/8732fc959e4fe8d22da48c66eb16fbc2954e5d2319076bf959877b9194ebcd0e.mp4",
+      "bytes": 5843003,
+      "sha256": "8732fc959e4fe8d22da48c66eb16fbc2954e5d2319076bf959877b9194ebcd0e"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__wow_wan14b_f105_rewrite__task_0171__episode_0001__1__task_0171_episode_0001",
+      "upstream_file": "robojudge__0373_robojudge_test_data__robotwin__generated_data__wow_wan14b_f105_rewrite__task_0171__episode_0001__1__task_0171_episode_0001.mp4",
+      "file": "videos/4620e27b265f2b881cd6ad5713cc9e62798d3f8556dfe82756971115b2be71fa.mp4",
+      "bytes": 283686,
+      "sha256": "4620e27b265f2b881cd6ad5713cc9e62798d3f8556dfe82756971115b2be71fa"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__wow_wan14b_f105_rewrite__task_0185__episode_0001__1__task_0185_episode_0001",
+      "upstream_file": "robojudge__0378_robojudge_test_data__robotwin__generated_data__wow_wan14b_f105_rewrite__task_0185__episode_0001__1__task_0185_episode_0001.mp4",
+      "file": "videos/d5aa732d72893f970cb13a1006bf18d27133b81120f282be1fb3fe10278c953b.mp4",
+      "bytes": 295462,
+      "sha256": "d5aa732d72893f970cb13a1006bf18d27133b81120f282be1fb3fe10278c953b"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__wan26_flash_rewrite__task_0066__episode_0001__1__task_0066_episode_0001",
+      "upstream_file": "robojudge__0434_robojudge_test_data__agibot_world__generated_data__wan26_flash_rewrite__task_0066__episode_0001__1__task_0066_episode_0001.mp4",
+      "file": "videos/771335a3a0be20a355c1f80e46caa98a8dcce6c82acc5494763a2b275c1aa87a.mp4",
+      "bytes": 3280297,
+      "sha256": "771335a3a0be20a355c1f80e46caa98a8dcce6c82acc5494763a2b275c1aa87a"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0035__episode_0001__1__task_0035_episode_0001",
+      "upstream_file": "robojudge__0444_robojudge_test_data__gr1_inlab__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0035__episode_0001__1__task_0035_episode_0001.mp4",
+      "file": "videos/c1d676c956837433714d37caf2ef617b59a09c20555d846d411d8c55eee62d1a.mp4",
+      "bytes": 795566,
+      "sha256": "c1d676c956837433714d37caf2ef617b59a09c20555d846d411d8c55eee62d1a"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0024__episode_0001__1__task_0024_episode_0001",
+      "upstream_file": "robojudge__0445_robojudge_test_data__agibot_world__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0024__episode_0001__1__task_0024_episode_0001.mp4",
+      "file": "videos/c4aed78c5b4888d0371d3df40bb809f93d486791c0f608e3971d261f668d4ba4.mp4",
+      "bytes": 7878384,
+      "sha256": "c4aed78c5b4888d0371d3df40bb809f93d486791c0f608e3971d261f668d4ba4"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__wan26_flash_rewrite__task_0120__episode_0001__1__task_0120_episode_0001",
+      "upstream_file": "robojudge__0123_robojudge_test_data__robotwin__generated_data__wan26_flash_rewrite__task_0120__episode_0001__1__task_0120_episode_0001.mp4",
+      "file": "videos/0d0b0ae2134c8dd5b2dc7f7612e47ded2cf00dc2171e2a9bd4d8cd662c3a4b44.mp4",
+      "bytes": 4133016,
+      "sha256": "0d0b0ae2134c8dd5b2dc7f7612e47ded2cf00dc2171e2a9bd4d8cd662c3a4b44"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wan26_flash_rewrite__task_0106__episode_0001__1__task_0106_episode_0001",
+      "upstream_file": "robojudge__0177_robojudge_test_data__gr1_inlab__generated_data__wan26_flash_rewrite__task_0106__episode_0001__1__task_0106_episode_0001.mp4",
+      "file": "videos/a384fc3d1e64b0297687ca6d3be7e3da0dba516cdd0d3bf795186626a54fc792.mp4",
+      "bytes": 2259775,
+      "sha256": "a384fc3d1e64b0297687ca6d3be7e3da0dba516cdd0d3bf795186626a54fc792"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__cosmos3_prefix__task_0051__episode_0001__1__task_0051_episode_0001",
+      "upstream_file": "robojudge__0265_robojudge_test_data__agibot_world__generated_data__cosmos3_prefix__task_0051__episode_0001__1__task_0051_episode_0001.mp4",
+      "file": "videos/ac50116fdab8b806e80bde9ee3ad14ff32cb9d939a3e03a14dc728ff96ce20e3.mp4",
+      "bytes": 328097,
+      "sha256": "ac50116fdab8b806e80bde9ee3ad14ff32cb9d939a3e03a14dc728ff96ce20e3"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__veo31_lite_prefix__task_0179__episode_0001__1__task_0179_episode_0001",
+      "upstream_file": "robojudge__0268_robojudge_test_data__robotwin__generated_data__veo31_lite_prefix__task_0179__episode_0001__1__task_0179_episode_0001.mp4",
+      "file": "videos/007a539d77cab4b38c47aa5ffa36ccd2fd5aa7c91ef8a197d9f6827f2e88e33f.mp4",
+      "bytes": 957597,
+      "sha256": "007a539d77cab4b38c47aa5ffa36ccd2fd5aa7c91ef8a197d9f6827f2e88e33f"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__wan26_flash_rewrite__task_0129__episode_0001__1__task_0129_episode_0001",
+      "upstream_file": "robojudge__0279_robojudge_test_data__open_x_embodiment__generated_data__wan26_flash_rewrite__task_0129__episode_0001__1__task_0129_episode_0001.mp4",
+      "file": "videos/15b34cb5aa4e07dfc62a2cd1889d8b92a7b855d3a801c123ce3c592c03991d90.mp4",
+      "bytes": 3163970,
+      "sha256": "15b34cb5aa4e07dfc62a2cd1889d8b92a7b855d3a801c123ce3c592c03991d90"
+    },
+    {
+      "record_id": "robojudge::test::data__droid__generated_data__wan26_flash_prefix__task_0016__episode_0001__1__task_0016_episode_0001",
+      "upstream_file": "robojudge__0296_robojudge_test_data__droid__generated_data__wan26_flash_prefix__task_0016__episode_0001__1__task_0016_episode_0001.mp4",
+      "file": "videos/5843e33f1ff8d6a1d15c9d2ec4a482c3eced45c53e55e33c75fc432dbaeabd71.mp4",
+      "bytes": 2099585,
+      "sha256": "5843e33f1ff8d6a1d15c9d2ec4a482c3eced45c53e55e33c75fc432dbaeabd71"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__cosmos3_rewrite__task_0034__episode_0001__1__task_0034_episode_0001",
+      "upstream_file": "robojudge__0309_robojudge_test_data__egodex_human__generated_data__cosmos3_rewrite__task_0034__episode_0001__1__task_0034_episode_0001.mp4",
+      "file": "videos/c53a12e5589c1658f315ce95536e0a6b726980a22f0578788d67392cafacb2b7.mp4",
+      "bytes": 250460,
+      "sha256": "c53a12e5589c1658f315ce95536e0a6b726980a22f0578788d67392cafacb2b7"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__cosmos3_prefix__task_0121__episode_0001__1__task_0121_episode_0001",
+      "upstream_file": "robojudge__0327_robojudge_test_data__robotwin__generated_data__cosmos3_prefix__task_0121__episode_0001__1__task_0121_episode_0001.mp4",
+      "file": "videos/4473b0d25367e908c20c69bc63df37894b02b443b9c2ce772acb7c298f99a89b.mp4",
+      "bytes": 397273,
+      "sha256": "4473b0d25367e908c20c69bc63df37894b02b443b9c2ce772acb7c298f99a89b"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__wan26_flash_prefix__task_0046__episode_0001__1__task_0046_episode_0001",
+      "upstream_file": "robojudge__0330_robojudge_test_data__open_x_embodiment__generated_data__wan26_flash_prefix__task_0046__episode_0001__1__task_0046_episode_0001.mp4",
+      "file": "videos/deaf4f40a36efa5a97e78c4c1da6fa1faed43b7c2af20519ecce210a8d429d39.mp4",
+      "bytes": 3638789,
+      "sha256": "deaf4f40a36efa5a97e78c4c1da6fa1faed43b7c2af20519ecce210a8d429d39"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0056__episode_0001__1__task_0056_episode_0001",
+      "upstream_file": "robojudge__0349_robojudge_test_data__egodex_human__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0056__episode_0001__1__task_0056_episode_0001.mp4",
+      "file": "videos/7bc4a885eb8d0428b761964b60ba6d9c21fdcd4ae9f41bffa2bb86bd6135576c.mp4",
+      "bytes": 6613555,
+      "sha256": "7bc4a885eb8d0428b761964b60ba6d9c21fdcd4ae9f41bffa2bb86bd6135576c"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__kling_prefix__task_0112__episode_0001__1__task_0112_episode_0001",
+      "upstream_file": "robojudge__0375_robojudge_test_data__gr1_inlab__generated_data__kling_prefix__task_0112__episode_0001__1__task_0112_episode_0001.mp4",
+      "file": "videos/9f90c727e67d9d97c81758ac0d601322dd704e86b7267fd4dfa5e91b25cb9525.mp4",
+      "bytes": 4012899,
+      "sha256": "9f90c727e67d9d97c81758ac0d601322dd704e86b7267fd4dfa5e91b25cb9525"
+    },
+    {
+      "record_id": "robojudge::test::data__droid__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0172__episode_0001__1__task_0172_episode_0001",
+      "upstream_file": "robojudge__0455_robojudge_test_data__droid__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0172__episode_0001__1__task_0172_episode_0001.mp4",
+      "file": "videos/8fa63e6889329ee0af1b7ffdb4d36bf098891f8fb72fa20b62f42a86f8723d2e.mp4",
+      "bytes": 5805160,
+      "sha256": "8fa63e6889329ee0af1b7ffdb4d36bf098891f8fb72fa20b62f42a86f8723d2e"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0003__episode_0001__1__task_0003_episode_0001",
+      "upstream_file": "robojudge__0473_robojudge_test_data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0003__episode_0001__1__task_0003_episode_0001.mp4",
+      "file": "videos/509850d4377255d6b20de83fa46c072b1d1b01d80ccc8b9df65ad3de0badc71b.mp4",
+      "bytes": 11262496,
+      "sha256": "509850d4377255d6b20de83fa46c072b1d1b01d80ccc8b9df65ad3de0badc71b"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__wan26_flash_prefix__task_0035__episode_0001__1__task_0035_episode_0001",
+      "upstream_file": "robojudge__0488_robojudge_test_data__egodex_human__generated_data__wan26_flash_prefix__task_0035__episode_0001__1__task_0035_episode_0001.mp4",
+      "file": "videos/3c31d489b1ee40f2e4956435b6858b46b9190a6c612011c291181dd3266ff223.mp4",
+      "bytes": 767080,
+      "sha256": "3c31d489b1ee40f2e4956435b6858b46b9190a6c612011c291181dd3266ff223"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__abot_physworld_f113_prefix__task_0051__episode_0001__1__task_0051_episode_0001",
+      "upstream_file": "robojudge__9154_robojudge_test_data__open_x_embodiment__generated_data__abot_physworld_f113_prefix__task_0051__episode_0001__1__task_0051_episode_0001.mp4",
+      "file": "videos/86c21d106a680161997c8d036fbe3b9dc940fa7f2e1e8ea9f06ee748af021718.mp4",
+      "bytes": 518827,
+      "sha256": "86c21d106a680161997c8d036fbe3b9dc940fa7f2e1e8ea9f06ee748af021718"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__abot_physworld_f113_prefix__task_0076__episode_0001__1__task_0076_episode_0001",
+      "upstream_file": "robojudge__9160_robojudge_test_data__gr1_inlab__generated_data__abot_physworld_f113_prefix__task_0076__episode_0001__1__task_0076_episode_0001.mp4",
+      "file": "videos/de95e55b0b90af82f88512360d6cb5d57a92b26a2b45409491efc58da1a5c5a1.mp4",
+      "bytes": 453797,
+      "sha256": "de95e55b0b90af82f88512360d6cb5d57a92b26a2b45409491efc58da1a5c5a1"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__abot_physworld_f113_rewrite__task_0129__episode_0001__1__task_0129_episode_0001",
+      "upstream_file": "robojudge__9169_robojudge_test_data__agibot_world__generated_data__abot_physworld_f113_rewrite__task_0129__episode_0001__1__task_0129_episode_0001.mp4",
+      "file": "videos/91d1bd006c2dfd78ace2e91399a92021dd163faa5f8ba2b807440d8eb4846e61.mp4",
+      "bytes": 387732,
+      "sha256": "91d1bd006c2dfd78ace2e91399a92021dd163faa5f8ba2b807440d8eb4846e61"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__cosmos3_prefix__task_0074__episode_0001__1__task_0074_episode_0001",
+      "upstream_file": "robojudge__9177_robojudge_test_data__agibot_world__generated_data__cosmos3_prefix__task_0074__episode_0001__1__task_0074_episode_0001.mp4",
+      "file": "videos/fcf9b5f4e4905adcfbfb7b9443d9fe503d27216d6ba902d25eeb14a3921d4986.mp4",
+      "bytes": 285864,
+      "sha256": "fcf9b5f4e4905adcfbfb7b9443d9fe503d27216d6ba902d25eeb14a3921d4986"
+    },
+    {
+      "record_id": "robojudge::test::data__droid__generated_data__cosmos3_rewrite__task_0111__episode_0001__1__task_0111_episode_0001",
+      "upstream_file": "robojudge__9179_robojudge_test_data__droid__generated_data__cosmos3_rewrite__task_0111__episode_0001__1__task_0111_episode_0001.mp4",
+      "file": "videos/bc3268a7e24e2d7ddae793d745e093138a4705cbcff850b25f5d98b326eb2f07.mp4",
+      "bytes": 284639,
+      "sha256": "bc3268a7e24e2d7ddae793d745e093138a4705cbcff850b25f5d98b326eb2f07"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__cosmos3_prefix__task_0021__episode_0001__1__task_0021_episode_0001",
+      "upstream_file": "robojudge__9183_robojudge_test_data__robotwin__generated_data__cosmos3_prefix__task_0021__episode_0001__1__task_0021_episode_0001.mp4",
+      "file": "videos/890d6214f09554f5a5fe45a27c279f1869222a290ed615c633deefa64c25b142.mp4",
+      "bytes": 244413,
+      "sha256": "890d6214f09554f5a5fe45a27c279f1869222a290ed615c633deefa64c25b142"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__abot_physworld_f113_prefix__task_0131__episode_0001__1__task_0131_episode_0001",
+      "upstream_file": "robojudge__9186_robojudge_test_data__open_x_embodiment__generated_data__abot_physworld_f113_prefix__task_0131__episode_0001__1__task_0131_episode_0001.mp4",
+      "file": "videos/70f726e293a2f0dc59d3b4d4022f4fa15cb8c6628dcbdf86712e6b228e366726.mp4",
+      "bytes": 494030,
+      "sha256": "70f726e293a2f0dc59d3b4d4022f4fa15cb8c6628dcbdf86712e6b228e366726"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__cogvideo_i2v_f113_rewrite__task_0040__episode_0001__1__task_0040_episode_0001",
+      "upstream_file": "robojudge__9188_robojudge_test_data__egodex_human__generated_data__cogvideo_i2v_f113_rewrite__task_0040__episode_0001__1__task_0040_episode_0001.mp4",
+      "file": "videos/791ebbaae6b0ed61ff578d298c63552f464ddf811cf99f1cbde220708fc39dcd.mp4",
+      "bytes": 692163,
+      "sha256": "791ebbaae6b0ed61ff578d298c63552f464ddf811cf99f1cbde220708fc39dcd"
+    },
+    {
+      "record_id": "robojudge::test::data__egoscaler_human__generated_data__abot_physworld_f113_rewrite__task_0058__episode_0001__1__task_0058_episode_0001",
+      "upstream_file": "robojudge__9189_robojudge_test_data__egoscaler_human__generated_data__abot_physworld_f113_rewrite__task_0058__episode_0001__1__task_0058_episode_0001.mp4",
+      "file": "videos/b04204f88ac695c1bd5f7b58fb8a495c8c82e35ae3ba28389ae0508f2c515b27.mp4",
+      "bytes": 686601,
+      "sha256": "b04204f88ac695c1bd5f7b58fb8a495c8c82e35ae3ba28389ae0508f2c515b27"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__cosmos3_rewrite__task_0093__episode_0001__1__task_0093_episode_0001",
+      "upstream_file": "robojudge__9193_robojudge_test_data__agibot_world__generated_data__cosmos3_rewrite__task_0093__episode_0001__1__task_0093_episode_0001.mp4",
+      "file": "videos/6a00e783158e2808ce4d0e2ad25affa308125e72c58d545019d397f419c30128.mp4",
+      "bytes": 472013,
+      "sha256": "6a00e783158e2808ce4d0e2ad25affa308125e72c58d545019d397f419c30128"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__cogvideo_i2v_f113_prefix__task_0018__episode_0001__1__task_0018_episode_0001",
+      "upstream_file": "robojudge__9202_robojudge_test_data__open_x_embodiment__generated_data__cogvideo_i2v_f113_prefix__task_0018__episode_0001__1__task_0018_episode_0001.mp4",
+      "file": "videos/051258eb3f0e6814dc8020ccdcbd49f1a395667a89408dc0fe249f3e3ac1398a.mp4",
+      "bytes": 715368,
+      "sha256": "051258eb3f0e6814dc8020ccdcbd49f1a395667a89408dc0fe249f3e3ac1398a"
+    },
+    {
+      "record_id": "robojudge::test::data__epickitchens_human__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0040__episode_0001__1__task_0040_episode_0001",
+      "upstream_file": "robojudge__9206_robojudge_test_data__epickitchens_human__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0040__episode_0001__1__task_0040_episode_0001.mp4",
+      "file": "videos/bbfd87559c57413215f7c68d47608c2c29216ee2ae04854d2345d59e10ed685f.mp4",
+      "bytes": 12581658,
+      "sha256": "bbfd87559c57413215f7c68d47608c2c29216ee2ae04854d2345d59e10ed685f"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__cogvideo_i2v_f113_prefix__task_0106__episode_0001__1__task_0106_episode_0001",
+      "upstream_file": "robojudge__9218_robojudge_test_data__open_x_embodiment__generated_data__cogvideo_i2v_f113_prefix__task_0106__episode_0001__1__task_0106_episode_0001.mp4",
+      "file": "videos/b836cd55d974f07244d96f4c4586ce1822a465320acfb7de12d445da388d1ee7.mp4",
+      "bytes": 1518687,
+      "sha256": "b836cd55d974f07244d96f4c4586ce1822a465320acfb7de12d445da388d1ee7"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__cosmos3_prefix__task_0116__episode_0001__1__task_0116_episode_0001",
+      "upstream_file": "robojudge__9220_robojudge_test_data__egodex_human__generated_data__cosmos3_prefix__task_0116__episode_0001__1__task_0116_episode_0001.mp4",
+      "file": "videos/ddc7d0ca5b3e64d03c03154b09cf98b538c12df0d469f2d556eac361e34a1c7c.mp4",
+      "bytes": 370722,
+      "sha256": "ddc7d0ca5b3e64d03c03154b09cf98b538c12df0d469f2d556eac361e34a1c7c"
+    },
+    {
+      "record_id": "robojudge::test::data__epickitchens_human__generated_data__wan26_flash_rewrite__task_0055__episode_0001__1__task_0055_episode_0001",
+      "upstream_file": "robojudge__9222_robojudge_test_data__epickitchens_human__generated_data__wan26_flash_rewrite__task_0055__episode_0001__1__task_0055_episode_0001.mp4",
+      "file": "videos/42440003687b8eb58c9346e24d2026643364d58779a42c0c3c0378b474747282.mp4",
+      "bytes": 2365467,
+      "sha256": "42440003687b8eb58c9346e24d2026643364d58779a42c0c3c0378b474747282"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__gigaworld_gr1_2b_f113_prefix__task_0004__episode_0001__1__task_0004_episode_0001",
+      "upstream_file": "robojudge__9225_robojudge_test_data__agibot_world__generated_data__gigaworld_gr1_2b_f113_prefix__task_0004__episode_0001__1__task_0004_episode_0001.mp4",
+      "file": "videos/9ba7dc66f2801ba39cf2e07f75cbd7481b7cbf5d9cf757d8e530a7e84cf296a2.mp4",
+      "bytes": 1104571,
+      "sha256": "9ba7dc66f2801ba39cf2e07f75cbd7481b7cbf5d9cf757d8e530a7e84cf296a2"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__cosmos3_rewrite__task_0138__episode_0001__1__task_0138_episode_0001",
+      "upstream_file": "robojudge__9231_robojudge_test_data__robotwin__generated_data__cosmos3_rewrite__task_0138__episode_0001__1__task_0138_episode_0001.mp4",
+      "file": "videos/18ba12b8214afe678d4e35cdb22a988dd806523e3b180247072076cd5e2e1046.mp4",
+      "bytes": 252079,
+      "sha256": "18ba12b8214afe678d4e35cdb22a988dd806523e3b180247072076cd5e2e1046"
+    },
+    {
+      "record_id": "robojudge::test::data__droid__generated_data__happyhorse_prefix__task_0030__episode_0001__1__task_0030_episode_0001",
+      "upstream_file": "robojudge__9235_robojudge_test_data__droid__generated_data__happyhorse_prefix__task_0030__episode_0001__1__task_0030_episode_0001.mp4",
+      "file": "videos/a7137baacabe4effd3b33ecf0bae39fddcb25adfaf543ae3c4cd948debd696f1.mp4",
+      "bytes": 1158114,
+      "sha256": "a7137baacabe4effd3b33ecf0bae39fddcb25adfaf543ae3c4cd948debd696f1"
+    },
+    {
+      "record_id": "robojudge::test::data__droid__generated_data__happyhorse_prefix__task_0165__episode_0001__1__task_0165_episode_0001",
+      "upstream_file": "robojudge__9242_robojudge_test_data__droid__generated_data__happyhorse_prefix__task_0165__episode_0001__1__task_0165_episode_0001.mp4",
+      "file": "videos/d787a3aaed9c5507159a356a3f5ee1bb7e51d0c0e5e3f0459101e697d9a5b808.mp4",
+      "bytes": 1026357,
+      "sha256": "d787a3aaed9c5507159a356a3f5ee1bb7e51d0c0e5e3f0459101e697d9a5b808"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__gigaworld_gr1_2b_f113_prefix__task_0091__episode_0001__1__task_0091_episode_0001",
+      "upstream_file": "robojudge__9245_robojudge_test_data__robotwin__generated_data__gigaworld_gr1_2b_f113_prefix__task_0091__episode_0001__1__task_0091_episode_0001.mp4",
+      "file": "videos/b19e02b2d097d5018d38aa132b6f3f6ddd3bace7fcb9c640f9b42cea4900e482.mp4",
+      "bytes": 377834,
+      "sha256": "b19e02b2d097d5018d38aa132b6f3f6ddd3bace7fcb9c640f9b42cea4900e482"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__cosmos3_rewrite__task_0114__episode_0001__1__task_0114_episode_0001",
+      "upstream_file": "robojudge__9246_robojudge_test_data__gr1_inlab__generated_data__cosmos3_rewrite__task_0114__episode_0001__1__task_0114_episode_0001.mp4",
+      "file": "videos/fa811c8b8f19f0205ac1bad463881f97cceddcc99a7237bce2c67046ec4efd23.mp4",
+      "bytes": 447421,
+      "sha256": "fa811c8b8f19f0205ac1bad463881f97cceddcc99a7237bce2c67046ec4efd23"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0036__episode_0001__1__task_0036_episode_0001",
+      "upstream_file": "robojudge__9247_robojudge_test_data__agibot_world__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0036__episode_0001__1__task_0036_episode_0001.mp4",
+      "file": "videos/4c47e31d915b5829b5ac1f3bac95a279dca03ac8aa44f3c1434f10591fd9f6bc.mp4",
+      "bytes": 771588,
+      "sha256": "4c47e31d915b5829b5ac1f3bac95a279dca03ac8aa44f3c1434f10591fd9f6bc"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__gigaworld_gr1_2b_f113_prefix__task_0103__episode_0001__1__task_0103_episode_0001",
+      "upstream_file": "robojudge__9250_robojudge_test_data__egodex_human__generated_data__gigaworld_gr1_2b_f113_prefix__task_0103__episode_0001__1__task_0103_episode_0001.mp4",
+      "file": "videos/3bd677b7a31ab5407c919bfc0ff99456e07f0802bcfaefc269662c42e0cbfe5d.mp4",
+      "bytes": 408032,
+      "sha256": "3bd677b7a31ab5407c919bfc0ff99456e07f0802bcfaefc269662c42e0cbfe5d"
+    },
+    {
+      "record_id": "robojudge::test::data__droid__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0080__episode_0001__1__task_0080_episode_0001",
+      "upstream_file": "robojudge__9256_robojudge_test_data__droid__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0080__episode_0001__1__task_0080_episode_0001.mp4",
+      "file": "videos/ef7d4fd38791bc3bde2a8c278aaf81e4204bfbf09660324825eced3b8d67fbdb.mp4",
+      "bytes": 6420195,
+      "sha256": "ef7d4fd38791bc3bde2a8c278aaf81e4204bfbf09660324825eced3b8d67fbdb"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__gigaworld_gr1_2b_f113_prefix__task_0177__episode_0001__1__task_0177_episode_0001",
+      "upstream_file": "robojudge__9259_robojudge_test_data__robotwin__generated_data__gigaworld_gr1_2b_f113_prefix__task_0177__episode_0001__1__task_0177_episode_0001.mp4",
+      "file": "videos/57b535bd574cbc1411de77f94286f3ab5486c98627c76f778cdb6ff543332eb3.mp4",
+      "bytes": 486874,
+      "sha256": "57b535bd574cbc1411de77f94286f3ab5486c98627c76f778cdb6ff543332eb3"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0182__episode_0001__1__task_0182_episode_0001",
+      "upstream_file": "robojudge__9261_robojudge_test_data__agibot_world__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0182__episode_0001__1__task_0182_episode_0001.mp4",
+      "file": "videos/07ea65e7954190e9832fbad6e07a8fc5c9f47b20930bd166ff624fd7ab5b1b2f.mp4",
+      "bytes": 807610,
+      "sha256": "07ea65e7954190e9832fbad6e07a8fc5c9f47b20930bd166ff624fd7ab5b1b2f"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0064__episode_0001__1__task_0064_episode_0001",
+      "upstream_file": "robojudge__9264_robojudge_test_data__egodex_human__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0064__episode_0001__1__task_0064_episode_0001.mp4",
+      "file": "videos/662ff56a54d49f4abba02add635c2802d847be2b973c3a197349221b2e692004.mp4",
+      "bytes": 4403467,
+      "sha256": "662ff56a54d49f4abba02add635c2802d847be2b973c3a197349221b2e692004"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__gigaworld_gr1_2b_f113_prefix__task_0153__episode_0001__1__task_0153_episode_0001",
+      "upstream_file": "robojudge__9267_robojudge_test_data__gr1_inlab__generated_data__gigaworld_gr1_2b_f113_prefix__task_0153__episode_0001__1__task_0153_episode_0001.mp4",
+      "file": "videos/1eaef13210357eacd0e5063dd201f0d3ab36c4da8015ffc3cae4b78542dbfad8.mp4",
+      "bytes": 669230,
+      "sha256": "1eaef13210357eacd0e5063dd201f0d3ab36c4da8015ffc3cae4b78542dbfad8"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__happyhorse_prefix__task_0192__episode_0001__1__task_0192_episode_0001",
+      "upstream_file": "robojudge__9268_robojudge_test_data__agibot_world__generated_data__happyhorse_prefix__task_0192__episode_0001__1__task_0192_episode_0001.mp4",
+      "file": "videos/c305092e9ea9b10f7c90421082a2acf68a939c80e017fd424380b50955005446.mp4",
+      "bytes": 1757847,
+      "sha256": "c305092e9ea9b10f7c90421082a2acf68a939c80e017fd424380b50955005446"
+    },
+    {
+      "record_id": "robojudge::test::data__egoscaler_human__generated_data__wan26_flash_rewrite__task_0040__episode_0001__1__task_0040_episode_0001",
+      "upstream_file": "robojudge__9272_robojudge_test_data__egoscaler_human__generated_data__wan26_flash_rewrite__task_0040__episode_0001__1__task_0040_episode_0001.mp4",
+      "file": "videos/36b4ebd91aecad4daa3721b5dbdd57042e78cd90347271ad1dac919b63b5ac52.mp4",
+      "bytes": 1962855,
+      "sha256": "36b4ebd91aecad4daa3721b5dbdd57042e78cd90347271ad1dac919b63b5ac52"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0031__episode_0001__1__task_0031_episode_0001",
+      "upstream_file": "robojudge__9274_robojudge_test_data__gr1_inlab__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0031__episode_0001__1__task_0031_episode_0001.mp4",
+      "file": "videos/57c663bebad1c3db821c507909b2e1f9f47489bf32ff458b1fd32c5be4a8fcbf.mp4",
+      "bytes": 664572,
+      "sha256": "57c663bebad1c3db821c507909b2e1f9f47489bf32ff458b1fd32c5be4a8fcbf"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__happyhorse_rewrite__task_0021__episode_0001__1__task_0021_episode_0001",
+      "upstream_file": "robojudge__9275_robojudge_test_data__agibot_world__generated_data__happyhorse_rewrite__task_0021__episode_0001__1__task_0021_episode_0001.mp4",
+      "file": "videos/8f80981cc97896f2a5f677ebaedec56c167c0914d3db0cd63862bd76cdb614fd.mp4",
+      "bytes": 1555086,
+      "sha256": "8f80981cc97896f2a5f677ebaedec56c167c0914d3db0cd63862bd76cdb614fd"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0091__episode_0001__1__task_0091_episode_0001",
+      "upstream_file": "robojudge__9281_robojudge_test_data__gr1_inlab__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0091__episode_0001__1__task_0091_episode_0001.mp4",
+      "file": "videos/e3dc206661bbca0583ca19cbb6e408bcc37f901b30205eb5dc7c68d1e29a3f03.mp4",
+      "bytes": 919898,
+      "sha256": "e3dc206661bbca0583ca19cbb6e408bcc37f901b30205eb5dc7c68d1e29a3f03"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__wow_wan14b_f105_prefix__task_0100__episode_0001__1__task_0100_episode_0001",
+      "upstream_file": "robojudge__9285_robojudge_test_data__egodex_human__generated_data__wow_wan14b_f105_prefix__task_0100__episode_0001__1__task_0100_episode_0001.mp4",
+      "file": "videos/ac16be17e5176ea5d18e381ba6cb4c959b4afebf878f5cc9d0183bda99c9a80a.mp4",
+      "bytes": 173025,
+      "sha256": "ac16be17e5176ea5d18e381ba6cb4c959b4afebf878f5cc9d0183bda99c9a80a"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__happyhorse_rewrite__task_0060__episode_0001__1__task_0060_episode_0001",
+      "upstream_file": "robojudge__9286_robojudge_test_data__robotwin__generated_data__happyhorse_rewrite__task_0060__episode_0001__1__task_0060_episode_0001.mp4",
+      "file": "videos/cd53f71ab71578413688eafda1238fcf59a27a639ded3698f9865b9b495d33bc.mp4",
+      "bytes": 1264066,
+      "sha256": "cd53f71ab71578413688eafda1238fcf59a27a639ded3698f9865b9b495d33bc"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0139__episode_0001__1__task_0139_episode_0001",
+      "upstream_file": "robojudge__9287_robojudge_test_data__gr1_inlab__generated_data__gigaworld_gr1_2b_f113_rewrite__task_0139__episode_0001__1__task_0139_episode_0001.mp4",
+      "file": "videos/cbb2e6aba6533ed75ad693a30c4894681be2b57046c2a491597ace2d35dec5b1.mp4",
+      "bytes": 814796,
+      "sha256": "cbb2e6aba6533ed75ad693a30c4894681be2b57046c2a491597ace2d35dec5b1"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__kling_prefix__task_0120__episode_0001__1__task_0120_episode_0001",
+      "upstream_file": "robojudge__9288_robojudge_test_data__agibot_world__generated_data__kling_prefix__task_0120__episode_0001__1__task_0120_episode_0001.mp4",
+      "file": "videos/1863f7bcf11369a7840faf3ebe39224552fe660f9c6b692f9b2d2c8bd5277ef9.mp4",
+      "bytes": 4224180,
+      "sha256": "1863f7bcf11369a7840faf3ebe39224552fe660f9c6b692f9b2d2c8bd5277ef9"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__gigaworld_gr1_2b_f113_prefix__task_0070__episode_0001__1__task_0070_episode_0001",
+      "upstream_file": "robojudge__9289_robojudge_test_data__open_x_embodiment__generated_data__gigaworld_gr1_2b_f113_prefix__task_0070__episode_0001__1__task_0070_episode_0001.mp4",
+      "file": "videos/25f113d004018bb69a7544820af21b8a1240fab9c4472858dde29fe4e5ad36f4.mp4",
+      "bytes": 604072,
+      "sha256": "25f113d004018bb69a7544820af21b8a1240fab9c4472858dde29fe4e5ad36f4"
+    },
+    {
+      "record_id": "robojudge::test::data__droid__generated_data__wow_wan14b_f105_rewrite__task_0105__episode_0001__1__task_0105_episode_0001",
+      "upstream_file": "robojudge__9290_robojudge_test_data__droid__generated_data__wow_wan14b_f105_rewrite__task_0105__episode_0001__1__task_0105_episode_0001.mp4",
+      "file": "videos/0a85bb59e219724aee52da0c70d0e20b9430176357b46a60bc6a81ba0e46bc39.mp4",
+      "bytes": 459028,
+      "sha256": "0a85bb59e219724aee52da0c70d0e20b9430176357b46a60bc6a81ba0e46bc39"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__veo31_lite_prefix__task_0004__episode_0001__1__task_0004_episode_0001",
+      "upstream_file": "robojudge__9294_robojudge_test_data__agibot_world__generated_data__veo31_lite_prefix__task_0004__episode_0001__1__task_0004_episode_0001.mp4",
+      "file": "videos/2bfe93e8fe1fcea5d361f47e7070cc30c32a54043c6545266a4995fd706af69f.mp4",
+      "bytes": 1442782,
+      "sha256": "2bfe93e8fe1fcea5d361f47e7070cc30c32a54043c6545266a4995fd706af69f"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__veo31_lite_prefix__task_0023__episode_0001__1__task_0023_episode_0001",
+      "upstream_file": "robojudge__9298_robojudge_test_data__agibot_world__generated_data__veo31_lite_prefix__task_0023__episode_0001__1__task_0023_episode_0001.mp4",
+      "file": "videos/09eaa6c18ab5bc7f5335331edb787267c6034f9a37e40637fc1bd448fdabca19.mp4",
+      "bytes": 884844,
+      "sha256": "09eaa6c18ab5bc7f5335331edb787267c6034f9a37e40637fc1bd448fdabca19"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__veo31_lite_prefix__task_0033__episode_0001__1__task_0033_episode_0001",
+      "upstream_file": "robojudge__9302_robojudge_test_data__agibot_world__generated_data__veo31_lite_prefix__task_0033__episode_0001__1__task_0033_episode_0001.mp4",
+      "file": "videos/62aeb78e06c474e2ef1ed4227310f7b2aee6dae063282f95dad15c7383e5f93e.mp4",
+      "bytes": 1112126,
+      "sha256": "62aeb78e06c474e2ef1ed4227310f7b2aee6dae063282f95dad15c7383e5f93e"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0040__episode_0001__1__task_0040_episode_0001",
+      "upstream_file": "robojudge__9303_robojudge_test_data__open_x_embodiment__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0040__episode_0001__1__task_0040_episode_0001.mp4",
+      "file": "videos/b8e716e545ecbf15a2ad4ec94313bbe3da019410447dc381ac2b2a4c25d57f24.mp4",
+      "bytes": 11169031,
+      "sha256": "b8e716e545ecbf15a2ad4ec94313bbe3da019410447dc381ac2b2a4c25d57f24"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__veo31_lite_rewrite__task_0009__episode_0001__1__task_0009_episode_0001",
+      "upstream_file": "robojudge__9306_robojudge_test_data__agibot_world__generated_data__veo31_lite_rewrite__task_0009__episode_0001__1__task_0009_episode_0001.mp4",
+      "file": "videos/012ca09e538d0ab4fc0e20ddff7be43eace6b7ba90cf031db7842a63f8c6a6fd.mp4",
+      "bytes": 931586,
+      "sha256": "012ca09e538d0ab4fc0e20ddff7be43eace6b7ba90cf031db7842a63f8c6a6fd"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0018__episode_0001__1__task_0018_episode_0001",
+      "upstream_file": "robojudge__9310_robojudge_test_data__agibot_world__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0018__episode_0001__1__task_0018_episode_0001.mp4",
+      "file": "videos/2f1463b3027787a67e06e82f5cd70ffff55191b8bdc6fd790cb6503ff4847a1e.mp4",
+      "bytes": 8673442,
+      "sha256": "2f1463b3027787a67e06e82f5cd70ffff55191b8bdc6fd790cb6503ff4847a1e"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0015__episode_0001__1__task_0015_episode_0001",
+      "upstream_file": "robojudge__9312_robojudge_test_data__robotwin__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0015__episode_0001__1__task_0015_episode_0001.mp4",
+      "file": "videos/072a9a17275324b28bfb546c7e7172f4d53105860c4c199ac1a2f000b45c9b79.mp4",
+      "bytes": 1920403,
+      "sha256": "072a9a17275324b28bfb546c7e7172f4d53105860c4c199ac1a2f000b45c9b79"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0075__episode_0001__1__task_0075_episode_0001",
+      "upstream_file": "robojudge__9313_robojudge_test_data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0075__episode_0001__1__task_0075_episode_0001.mp4",
+      "file": "videos/4e95f55a5c0abdeda55538bb14042b860606e0317880180ca92473bf2e9dbe3e.mp4",
+      "bytes": 13306465,
+      "sha256": "4e95f55a5c0abdeda55538bb14042b860606e0317880180ca92473bf2e9dbe3e"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0030__episode_0001__1__task_0030_episode_0001",
+      "upstream_file": "robojudge__9315_robojudge_test_data__open_x_embodiment__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0030__episode_0001__1__task_0030_episode_0001.mp4",
+      "file": "videos/d1320939afa2f5c2a23d827a14d2ceb78169001114b89e5ccb4103cf373577c7.mp4",
+      "bytes": 10881774,
+      "sha256": "d1320939afa2f5c2a23d827a14d2ceb78169001114b89e5ccb4103cf373577c7"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0106__episode_0001__1__task_0106_episode_0001",
+      "upstream_file": "robojudge__9317_robojudge_test_data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0106__episode_0001__1__task_0106_episode_0001.mp4",
+      "file": "videos/6375044c91263d172c5aca43c4b52ff5e9d32bb452a38a7efb782208ba6e2146.mp4",
+      "bytes": 11723575,
+      "sha256": "6375044c91263d172c5aca43c4b52ff5e9d32bb452a38a7efb782208ba6e2146"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0017__episode_0001__1__task_0017_episode_0001",
+      "upstream_file": "robojudge__9318_robojudge_test_data__agibot_world__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0017__episode_0001__1__task_0017_episode_0001.mp4",
+      "file": "videos/12f4ca69b2a1348909f05b99895caef8501ab45f2dede91fe47eac2fa6a78187.mp4",
+      "bytes": 13411717,
+      "sha256": "12f4ca69b2a1348909f05b99895caef8501ab45f2dede91fe47eac2fa6a78187"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0138__episode_0001__1__task_0138_episode_0001",
+      "upstream_file": "robojudge__9321_robojudge_test_data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_prefix__task_0138__episode_0001__1__task_0138_episode_0001.mp4",
+      "file": "videos/14280132155b1f497c0fd104256606f4c56cf560f66829d3707e15e8e3bc8204.mp4",
+      "bytes": 11518486,
+      "sha256": "14280132155b1f497c0fd104256606f4c56cf560f66829d3707e15e8e3bc8204"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0004__episode_0001__1__task_0004_episode_0001",
+      "upstream_file": "robojudge__9325_robojudge_test_data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0004__episode_0001__1__task_0004_episode_0001.mp4",
+      "file": "videos/84f7f0368bf850d1f8ef5ac19548688b6bf5dba627cf8b5c1093195e31495aa6.mp4",
+      "bytes": 9649144,
+      "sha256": "84f7f0368bf850d1f8ef5ac19548688b6bf5dba627cf8b5c1093195e31495aa6"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0128__episode_0001__1__task_0128_episode_0001",
+      "upstream_file": "robojudge__9329_robojudge_test_data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0128__episode_0001__1__task_0128_episode_0001.mp4",
+      "file": "videos/49ac5078ba82c3bbf5d6a231c3974ac301068102c9843ea260fbbf53ce32997d.mp4",
+      "bytes": 11937991,
+      "sha256": "49ac5078ba82c3bbf5d6a231c3974ac301068102c9843ea260fbbf53ce32997d"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0143__episode_0001__1__task_0143_episode_0001",
+      "upstream_file": "robojudge__9332_robojudge_test_data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0143__episode_0001__1__task_0143_episode_0001.mp4",
+      "file": "videos/4bf410dd3768124a386858232d0ef3dcf4967f2cb4957f3219fda91c0cdde528.mp4",
+      "bytes": 14135095,
+      "sha256": "4bf410dd3768124a386858232d0ef3dcf4967f2cb4957f3219fda91c0cdde528"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0007__episode_0001__1__task_0007_episode_0001",
+      "upstream_file": "robojudge__9334_robojudge_test_data__robotwin__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0007__episode_0001__1__task_0007_episode_0001.mp4",
+      "file": "videos/8c9458be5c4df2a899faa633d6c7333c81b78c4ffd342992d646bb5d83a1e64e.mp4",
+      "bytes": 6599238,
+      "sha256": "8c9458be5c4df2a899faa633d6c7333c81b78c4ffd342992d646bb5d83a1e64e"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0163__episode_0001__1__task_0163_episode_0001",
+      "upstream_file": "robojudge__9335_robojudge_test_data__gr1_inlab__generated_data__wan22_ti2v5b_1280x704_f169_rewrite__task_0163__episode_0001__1__task_0163_episode_0001.mp4",
+      "file": "videos/ca8596c7fe2fbc108316f92d3cc2347ce2948204ef9b78eae32ffe6137d506e4.mp4",
+      "bytes": 11595244,
+      "sha256": "ca8596c7fe2fbc108316f92d3cc2347ce2948204ef9b78eae32ffe6137d506e4"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__wow_wan14b_f105_prefix__task_0097__episode_0001__1__task_0097_episode_0001",
+      "upstream_file": "robojudge__9344_robojudge_test_data__gr1_inlab__generated_data__wow_wan14b_f105_prefix__task_0097__episode_0001__1__task_0097_episode_0001.mp4",
+      "file": "videos/a1b146e9d9c03a1ea60c7deb79886968450f2a09e24e6b540c04567e2cb9cbe1.mp4",
+      "bytes": 557535,
+      "sha256": "a1b146e9d9c03a1ea60c7deb79886968450f2a09e24e6b540c04567e2cb9cbe1"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__wow_wan14b_f105_rewrite__task_0029__episode_0001__1__task_0029_episode_0001",
+      "upstream_file": "robojudge__9345_robojudge_test_data__agibot_world__generated_data__wow_wan14b_f105_rewrite__task_0029__episode_0001__1__task_0029_episode_0001.mp4",
+      "file": "videos/10cb1df96a053b8ccc6e638c4d8480a45a532e155554e19d48245dad9af61c08.mp4",
+      "bytes": 468381,
+      "sha256": "10cb1df96a053b8ccc6e638c4d8480a45a532e155554e19d48245dad9af61c08"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__abot_physworld_f113_prefix__task_0142__episode_0001__1__task_0142_episode_0001",
+      "upstream_file": "robojudge__9360_robojudge_test_data__robotwin__generated_data__abot_physworld_f113_prefix__task_0142__episode_0001__1__task_0142_episode_0001.mp4",
+      "file": "videos/41cb1e8b602bae17b6259a1cd9f121eb1f076408dec85b4941829999642850c4.mp4",
+      "bytes": 317863,
+      "sha256": "41cb1e8b602bae17b6259a1cd9f121eb1f076408dec85b4941829999642850c4"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__cogvideo_i2v_f113_prefix__task_0014__episode_0001__1__task_0014_episode_0001",
+      "upstream_file": "robojudge__9362_robojudge_test_data__open_x_embodiment__generated_data__cogvideo_i2v_f113_prefix__task_0014__episode_0001__1__task_0014_episode_0001.mp4",
+      "file": "videos/d658dbdbfe51f9cf6f6fbf588a7da63701fa9dd243ef99171a91a25c48c78e1e.mp4",
+      "bytes": 821411,
+      "sha256": "d658dbdbfe51f9cf6f6fbf588a7da63701fa9dd243ef99171a91a25c48c78e1e"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__cogvideo_i2v_f113_prefix__task_0028__episode_0001__1__task_0028_episode_0001",
+      "upstream_file": "robojudge__9367_robojudge_test_data__agibot_world__generated_data__cogvideo_i2v_f113_prefix__task_0028__episode_0001__1__task_0028_episode_0001.mp4",
+      "file": "videos/f3a6223dcef5bf173a02d536ffcb073536426ddc0e0d8a5716e55a6bd399c3ff.mp4",
+      "bytes": 1252567,
+      "sha256": "f3a6223dcef5bf173a02d536ffcb073536426ddc0e0d8a5716e55a6bd399c3ff"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__abot_physworld_f113_rewrite__task_0133__episode_0001__1__task_0133_episode_0001",
+      "upstream_file": "robojudge__9368_robojudge_test_data__robotwin__generated_data__abot_physworld_f113_rewrite__task_0133__episode_0001__1__task_0133_episode_0001.mp4",
+      "file": "videos/6b85bdb808b79edb55d35f42df1578abd768cb38662736d4bf721bba67ddf293.mp4",
+      "bytes": 468657,
+      "sha256": "6b85bdb808b79edb55d35f42df1578abd768cb38662736d4bf721bba67ddf293"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__cogvideo_i2v_f113_rewrite__task_0031__episode_0001__1__task_0031_episode_0001",
+      "upstream_file": "robojudge__9369_robojudge_test_data__gr1_inlab__generated_data__cogvideo_i2v_f113_rewrite__task_0031__episode_0001__1__task_0031_episode_0001.mp4",
+      "file": "videos/55264f5b1d2dcac24329d8146051f16ecf6c6ac4a92521bd8c7839a8333d5302.mp4",
+      "bytes": 928089,
+      "sha256": "55264f5b1d2dcac24329d8146051f16ecf6c6ac4a92521bd8c7839a8333d5302"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__cogvideo_i2v_f113_prefix__task_0093__episode_0001__1__task_0093_episode_0001",
+      "upstream_file": "robojudge__9370_robojudge_test_data__open_x_embodiment__generated_data__cogvideo_i2v_f113_prefix__task_0093__episode_0001__1__task_0093_episode_0001.mp4",
+      "file": "videos/4963aa8ea2bf45d3c8c377eed352b6a22fab4233354fb4bc06924e678c343865.mp4",
+      "bytes": 910802,
+      "sha256": "4963aa8ea2bf45d3c8c377eed352b6a22fab4233354fb4bc06924e678c343865"
+    },
+    {
+      "record_id": "robojudge::test::data__robotwin__generated_data__abot_physworld_f113_rewrite__task_0186__episode_0001__1__task_0186_episode_0001",
+      "upstream_file": "robojudge__9376_robojudge_test_data__robotwin__generated_data__abot_physworld_f113_rewrite__task_0186__episode_0001__1__task_0186_episode_0001.mp4",
+      "file": "videos/a8632df51f97fcb24b91947230ce9651d237405e59bf045ab829ab6b663d8845.mp4",
+      "bytes": 329256,
+      "sha256": "a8632df51f97fcb24b91947230ce9651d237405e59bf045ab829ab6b663d8845"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__cogvideo_i2v_f113_prefix__task_0123__episode_0001__1__task_0123_episode_0001",
+      "upstream_file": "robojudge__9378_robojudge_test_data__open_x_embodiment__generated_data__cogvideo_i2v_f113_prefix__task_0123__episode_0001__1__task_0123_episode_0001.mp4",
+      "file": "videos/3020dd8203cf278afbd2b1b5a792290a800d83255fc841daa5ae65908294b871.mp4",
+      "bytes": 487049,
+      "sha256": "3020dd8203cf278afbd2b1b5a792290a800d83255fc841daa5ae65908294b871"
+    },
+    {
+      "record_id": "robojudge::test::data__egodex_human__generated_data__cosmos3_rewrite__task_0098__episode_0001__1__task_0098_episode_0001",
+      "upstream_file": "robojudge__9380_robojudge_test_data__egodex_human__generated_data__cosmos3_rewrite__task_0098__episode_0001__1__task_0098_episode_0001.mp4",
+      "file": "videos/d70d8311b8e2f83a327de36784cbb973873e00da2a2cf05da9ac12ba94d01ec1.mp4",
+      "bytes": 483022,
+      "sha256": "d70d8311b8e2f83a327de36784cbb973873e00da2a2cf05da9ac12ba94d01ec1"
+    },
+    {
+      "record_id": "robojudge::test::data__agibot_world__generated_data__cogvideo_i2v_f113_prefix__task_0063__episode_0001__1__task_0063_episode_0001",
+      "upstream_file": "robojudge__9383_robojudge_test_data__agibot_world__generated_data__cogvideo_i2v_f113_prefix__task_0063__episode_0001__1__task_0063_episode_0001.mp4",
+      "file": "videos/9f923746d092230eb2a3fcc490df487684f3d27d77fbcbdbcccbee43a8ad1b21.mp4",
+      "bytes": 638666,
+      "sha256": "9f923746d092230eb2a3fcc490df487684f3d27d77fbcbdbcccbee43a8ad1b21"
+    },
+    {
+      "record_id": "robojudge::test::data__open_x_embodiment__generated_data__cogvideo_i2v_f113_prefix__task_0125__episode_0001__1__task_0125_episode_0001",
+      "upstream_file": "robojudge__9386_robojudge_test_data__open_x_embodiment__generated_data__cogvideo_i2v_f113_prefix__task_0125__episode_0001__1__task_0125_episode_0001.mp4",
+      "file": "videos/50f469490179f8fff9216239840d61e8294a3730965b2591994636a5c6dd1e06.mp4",
+      "bytes": 513987,
+      "sha256": "50f469490179f8fff9216239840d61e8294a3730965b2591994636a5c6dd1e06"
+    },
+    {
+      "record_id": "robojudge::test::data__gr1_inlab__generated_data__abot_physworld_f113_prefix__task_0030__episode_0001__1__task_0030_episode_0001",
+      "upstream_file": "robojudge__9393_robojudge_test_data__gr1_inlab__generated_data__abot_physworld_f113_prefix__task_0030__episode_0001__1__task_0030_episode_0001.mp4",
+      "file": "videos/ceb65faaeb1bb62b349b608e00e2831c213efc1820243e9cfef35c651832f7cc.mp4",
+      "bytes": 341296,
+      "sha256": "ceb65faaeb1bb62b349b608e00e2831c213efc1820243e9cfef35c651832f7cc"
+    },
+    {
+      "record_id": "phyground::ltx-2.3-22b-dev-1stage::0125_perspective-center_trimmed-mug-breaks",
+      "upstream_file": "ltx-2.3-22b-dev-1stage__0125_perspective-center_trimmed-mug-breaks.mp4",
+      "file": "videos/c069746f9f9c2bc0eea17650e1244aa5ad613886b6bdea95af24793b6d66bc1d.mp4",
+      "bytes": 185045,
+      "sha256": "c069746f9f9c2bc0eea17650e1244aa5ad613886b6bdea95af24793b6d66bc1d"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::0188_perspective-center_trimmed-weight-on-ceramic",
+      "upstream_file": "wan2.2-i2v-a14b__0188_perspective-center_trimmed-weight-on-ceramic.mp4",
+      "file": "videos/6be4b87dd560728f16aef470fb9901dec6d4a50b6cce6aacf36b329945b0297e.mp4",
+      "bytes": 145105,
+      "sha256": "6be4b87dd560728f16aef470fb9901dec6d4a50b6cce6aacf36b329945b0297e"
+    },
+    {
+      "record_id": "phyground::wan2.2-ti2v-5b::0017_perspective-center_trimmed-ball-in-sand",
+      "upstream_file": "wan2.2-ti2v-5b__0017_perspective-center_trimmed-ball-in-sand.mp4",
+      "file": "videos/d10afb429cbd7dedea303391fb90ff5ffc881eee726b6c5feee9c080db4253b3.mp4",
+      "bytes": 529317,
+      "sha256": "d10afb429cbd7dedea303391fb90ff5ffc881eee726b6c5feee9c080db4253b3"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-2b::0191_perspective-center_trimmed-weight-on-paper",
+      "upstream_file": "cosmos-predict2.5-2b__0191_perspective-center_trimmed-weight-on-paper.mp4",
+      "file": "videos/abd53b11905f8ba1e6bd7480dd134d6d55d6c6c4d760215c5326c7ddbc40c38b.mp4",
+      "bytes": 478163,
+      "sha256": "abd53b11905f8ba1e6bd7480dd134d6d55d6c6c4d760215c5326c7ddbc40c38b"
+    },
+    {
+      "record_id": "phyground::veo-3.1::0002_perspective-center_trimmed-ball-and-block-fall",
+      "upstream_file": "veo-3.1__0002_perspective-center_trimmed-ball-and-block-fall.mp4",
+      "file": "videos/98f04c6d188ea9a48e6c2402d0eac124fe7e3a996433679f8dedf191c1e0532d.mp4",
+      "bytes": 1670016,
+      "sha256": "98f04c6d188ea9a48e6c2402d0eac124fe7e3a996433679f8dedf191c1e0532d"
+    },
+    {
+      "record_id": "phyground::veo-3.1::0029_perspective-center_trimmed-ball-train",
+      "upstream_file": "veo-3.1__0029_perspective-center_trimmed-ball-train.mp4",
+      "file": "videos/370e1fd7c3cce9cb86cbe726ee5648b219c858eaf39626d14b79b49d15bf8e55.mp4",
+      "bytes": 1229988,
+      "sha256": "370e1fd7c3cce9cb86cbe726ee5648b219c858eaf39626d14b79b49d15bf8e55"
+    },
+    {
+      "record_id": "phyground::ltx-2.3-22b-dev-1stage::collision_92",
+      "upstream_file": "ltx-2.3-22b-dev-1stage__collision_92.mp4",
+      "file": "videos/911353ee5bf5f1486f500e1036652cd953bee99baced6aae2196cca4cc00f53d.mp4",
+      "bytes": 1319211,
+      "sha256": "911353ee5bf5f1486f500e1036652cd953bee99baced6aae2196cca4cc00f53d"
+    },
+    {
+      "record_id": "phyground::veo-3.1::Lt0TIkZdUs4_000003_000013",
+      "upstream_file": "veo-3.1__Lt0TIkZdUs4_000003_000013.mp4",
+      "file": "videos/778511e7e816fddabab7091b2d655d7146644e314dd23f4db600e593b924fac4.mp4",
+      "bytes": 3698064,
+      "sha256": "778511e7e816fddabab7091b2d655d7146644e314dd23f4db600e593b924fac4"
+    },
+    {
+      "record_id": "phyground::ltx-2-19b-dev-1stage::mechanics_97",
+      "upstream_file": "ltx-2-19b-dev-1stage__mechanics_97.mp4",
+      "file": "videos/22b3d847cf3439001a37b92590ca4f8dbfcaea419d29c4e6a3f4d4e90c0a855d.mp4",
+      "bytes": 235155,
+      "sha256": "22b3d847cf3439001a37b92590ca4f8dbfcaea419d29c4e6a3f4d4e90c0a855d"
+    },
+    {
+      "record_id": "phyground::veo-3.1::mechanics_55",
+      "upstream_file": "veo-3.1__mechanics_55.mp4",
+      "file": "videos/e2105895d18c3dc0fc699f85193a6bc655fdd8dc6e922881dbb6be03ab95a853.mp4",
+      "bytes": 5099095,
+      "sha256": "e2105895d18c3dc0fc699f85193a6bc655fdd8dc6e922881dbb6be03ab95a853"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-2b::0104_perspective-center_trimmed-marble-run-x",
+      "upstream_file": "cosmos-predict2.5-2b__0104_perspective-center_trimmed-marble-run-x.mp4",
+      "file": "videos/da4eb166a318f80b68ade495a4f4587b48905f0a4873ba45080f09021cb3ebf0.mp4",
+      "bytes": 339055,
+      "sha256": "da4eb166a318f80b68ade495a4f4587b48905f0a4873ba45080f09021cb3ebf0"
+    },
+    {
+      "record_id": "phyground::veo-3.1::collision_260",
+      "upstream_file": "veo-3.1__collision_260.mp4",
+      "file": "videos/2bb67d77ee811ce0d7584d42b99cbdb2c8607f786403d75b76137f62d74c86eb.mp4",
+      "bytes": 6045105,
+      "sha256": "2bb67d77ee811ce0d7584d42b99cbdb2c8607f786403d75b76137f62d74c86eb"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::collision_298",
+      "upstream_file": "wan2.2-i2v-a14b__collision_298.mp4",
+      "file": "videos/e86f89a2c237fe71746e9b217339f9103f86bae95aafd9160d5fc081ec057b7c.mp4",
+      "bytes": 531519,
+      "sha256": "e86f89a2c237fe71746e9b217339f9103f86bae95aafd9160d5fc081ec057b7c"
+    },
+    {
+      "record_id": "phyground::omniweaving::0152_perspective-center_trimmed-roll-in-box",
+      "upstream_file": "omniweaving__0152_perspective-center_trimmed-roll-in-box.mp4",
+      "file": "videos/610df9a34a8810ee2ad2ac902c78e44b5e6891b82a3ba09f90b9c72e3e70c379.mp4",
+      "bytes": 165754,
+      "sha256": "610df9a34a8810ee2ad2ac902c78e44b5e6891b82a3ba09f90b9c72e3e70c379"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::fluid_426",
+      "upstream_file": "wan2.2-i2v-a14b__fluid_426.mp4",
+      "file": "videos/acf3b0f1aca7b6f4afc3ddf5a3922015ef586ef2c39c6cac5c0d41212c403445.mp4",
+      "bytes": 1274850,
+      "sha256": "acf3b0f1aca7b6f4afc3ddf5a3922015ef586ef2c39c6cac5c0d41212c403445"
+    },
+    {
+      "record_id": "phyground::ltx-2-19b-dev-1stage::mechanics_146",
+      "upstream_file": "ltx-2-19b-dev-1stage__mechanics_146.mp4",
+      "file": "videos/878064d036e2df7e0276fc28b90232331b0614fd96d28bd3878aa1b475dde33f.mp4",
+      "bytes": 772257,
+      "sha256": "878064d036e2df7e0276fc28b90232331b0614fd96d28bd3878aa1b475dde33f"
+    },
+    {
+      "record_id": "phyground::veo-3.1::mechanics_420",
+      "upstream_file": "veo-3.1__mechanics_420.mp4",
+      "file": "videos/7ed2a6c24443f1e23259c8478a89c9efbcc6801cd4d5f779656a1a68d3cfd733.mp4",
+      "bytes": 1803436,
+      "sha256": "7ed2a6c24443f1e23259c8478a89c9efbcc6801cd4d5f779656a1a68d3cfd733"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-14b::mechanics_245",
+      "upstream_file": "cosmos-predict2.5-14b__mechanics_245.mp4",
+      "file": "videos/c04aa35fb97fb8d1d378a9d7fdf209541be10c7d5cc741209949319540a30414.mp4",
+      "bytes": 1627905,
+      "sha256": "c04aa35fb97fb8d1d378a9d7fdf209541be10c7d5cc741209949319540a30414"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-14b::mechanics_294",
+      "upstream_file": "cosmos-predict2.5-14b__mechanics_294.mp4",
+      "file": "videos/eb5288eb27ca53fd81227fc23c36f48a745c9ad9fc8070d4135411a0d56515c6.mp4",
+      "bytes": 979459,
+      "sha256": "eb5288eb27ca53fd81227fc23c36f48a745c9ad9fc8070d4135411a0d56515c6"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-2b::mechanics_245",
+      "upstream_file": "cosmos-predict2.5-2b__mechanics_245.mp4",
+      "file": "videos/8786eeeefbad3d94b38ccf3cef42d3c551b94a2b665dcdf57a5cbef1064ff7a2.mp4",
+      "bytes": 1900299,
+      "sha256": "8786eeeefbad3d94b38ccf3cef42d3c551b94a2b665dcdf57a5cbef1064ff7a2"
+    },
+    {
+      "record_id": "phyground::ltx-2.3-22b-dev-1stage::mechanics_402",
+      "upstream_file": "ltx-2.3-22b-dev-1stage__mechanics_402.mp4",
+      "file": "videos/58c5396f1049387854287e4090c77cd064efbac152a8aebc2ed25c6d6cfcf4c2.mp4",
+      "bytes": 460606,
+      "sha256": "58c5396f1049387854287e4090c77cd064efbac152a8aebc2ed25c6d6cfcf4c2"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::mechanics_166",
+      "upstream_file": "wan2.2-i2v-a14b__mechanics_166.mp4",
+      "file": "videos/eef65af8a8c202c905ede56b2038ba96905c893d07814e7f2f2331609a887e51.mp4",
+      "bytes": 514139,
+      "sha256": "eef65af8a8c202c905ede56b2038ba96905c893d07814e7f2f2331609a887e51"
+    },
+    {
+      "record_id": "phyground::omniweaving::1jnsHJ1u3Pk_10_0to149",
+      "upstream_file": "omniweaving__1jnsHJ1u3Pk_10_0to149.mp4",
+      "file": "videos/ecb7b5217f210e7987559b0ca6d5f0db492cc976625602343c458eac7fa7cb1b.mp4",
+      "bytes": 703384,
+      "sha256": "ecb7b5217f210e7987559b0ca6d5f0db492cc976625602343c458eac7fa7cb1b"
+    },
+    {
+      "record_id": "phyground::omniweaving::collision_260",
+      "upstream_file": "omniweaving__collision_260.mp4",
+      "file": "videos/71aabc30bd7e41b10c7a8796b84d044e50170ba7518b264a8b3dbd03bec96711.mp4",
+      "bytes": 658929,
+      "sha256": "71aabc30bd7e41b10c7a8796b84d044e50170ba7518b264a8b3dbd03bec96711"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-2b::mechanics_152",
+      "upstream_file": "cosmos-predict2.5-2b__mechanics_152.mp4",
+      "file": "videos/023e90fa76139143eae16ff46473d9151e2749c3c86b67ddf0c1ad4edf09eb53.mp4",
+      "bytes": 701776,
+      "sha256": "023e90fa76139143eae16ff46473d9151e2749c3c86b67ddf0c1ad4edf09eb53"
+    },
+    {
+      "record_id": "phyground::omniweaving::mechanics_407",
+      "upstream_file": "omniweaving__mechanics_407.mp4",
+      "file": "videos/96f7d80d2efdc9d6fb52558e4c8190629f899aeedc991285503a29ad544b3db8.mp4",
+      "bytes": 353992,
+      "sha256": "96f7d80d2efdc9d6fb52558e4c8190629f899aeedc991285503a29ad544b3db8"
+    },
+    {
+      "record_id": "phyground::ltx-2.3-22b-dev-1stage::0188_perspective-center_trimmed-weight-on-ceramic",
+      "upstream_file": "ltx-2.3-22b-dev-1stage__0188_perspective-center_trimmed-weight-on-ceramic.mp4",
+      "file": "videos/4283be97facf60eac31d7e6b7d8687c43bc4bb9074b7570f6a30644729cce6cb.mp4",
+      "bytes": 220611,
+      "sha256": "4283be97facf60eac31d7e6b7d8687c43bc4bb9074b7570f6a30644729cce6cb"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-14b::gravity_217",
+      "upstream_file": "cosmos-predict2.5-14b__gravity_217.mp4",
+      "file": "videos/08c07e8fe864593f893d8e26003667095dc716e98b1b22bb56172fc67ef1dbca.mp4",
+      "bytes": 1266923,
+      "sha256": "08c07e8fe864593f893d8e26003667095dc716e98b1b22bb56172fc67ef1dbca"
+    },
+    {
+      "record_id": "phyground::wan2.2-ti2v-5b::mechanics_118",
+      "upstream_file": "wan2.2-ti2v-5b__mechanics_118.mp4",
+      "file": "videos/587ce5f6ac2b382183cb76686a49071c29ff80594bd02c17f174c1c7946884af.mp4",
+      "bytes": 633507,
+      "sha256": "587ce5f6ac2b382183cb76686a49071c29ff80594bd02c17f174c1c7946884af"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::0029_perspective-center_trimmed-ball-train",
+      "upstream_file": "wan2.2-i2v-a14b__0029_perspective-center_trimmed-ball-train.mp4",
+      "file": "videos/a57ae4ca2fba6ec57f5fc65119a463ed321d3fa78cb15dfcf7d7951c566d3886.mp4",
+      "bytes": 80732,
+      "sha256": "a57ae4ca2fba6ec57f5fc65119a463ed321d3fa78cb15dfcf7d7951c566d3886"
+    },
+    {
+      "record_id": "phyground::ltx-2-19b-dev-1stage::collision_583",
+      "upstream_file": "ltx-2-19b-dev-1stage__collision_583.mp4",
+      "file": "videos/3dae905c71844d95c5fa1ece5504e6271c5e23894e513f5861e95d30b75d33f8.mp4",
+      "bytes": 167844,
+      "sha256": "3dae905c71844d95c5fa1ece5504e6271c5e23894e513f5861e95d30b75d33f8"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-14b::0197_perspective-center_trimmed-weight-protects-duck",
+      "upstream_file": "cosmos-predict2.5-14b__0197_perspective-center_trimmed-weight-protects-duck.mp4",
+      "file": "videos/17aa587539dd907b17c96e914913120708ced5c684b4953513b72a43beec4868.mp4",
+      "bytes": 342239,
+      "sha256": "17aa587539dd907b17c96e914913120708ced5c684b4953513b72a43beec4868"
+    },
+    {
+      "record_id": "phyground::omniweaving::mechanics_218",
+      "upstream_file": "omniweaving__mechanics_218.mp4",
+      "file": "videos/92f29ac9f0b19d6319caa4fa3ceeecab23ac2b6a16579a6f60a41104d0f0367d.mp4",
+      "bytes": 161103,
+      "sha256": "92f29ac9f0b19d6319caa4fa3ceeecab23ac2b6a16579a6f60a41104d0f0367d"
+    },
+    {
+      "record_id": "phyground::veo-3.1::b91QyJ0TRAI_000000_000010",
+      "upstream_file": "veo-3.1__b91QyJ0TRAI_000000_000010.mp4",
+      "file": "videos/07dcc6d213637a48102faa67d96223cf3dd02e3940b7bf17f104b524c4b1e383.mp4",
+      "bytes": 5239558,
+      "sha256": "07dcc6d213637a48102faa67d96223cf3dd02e3940b7bf17f104b524c4b1e383"
+    },
+    {
+      "record_id": "phyground::ltx-2.3-22b-dev-1stage::mechanics_286",
+      "upstream_file": "ltx-2.3-22b-dev-1stage__mechanics_286.mp4",
+      "file": "videos/e93c03c9c605c5531ee9cda17e7cff48aac7d64f4df615425c7e07fc21828bf1.mp4",
+      "bytes": 308153,
+      "sha256": "e93c03c9c605c5531ee9cda17e7cff48aac7d64f4df615425c7e07fc21828bf1"
+    },
+    {
+      "record_id": "phyground::ltx-2-19b-dev-1stage::0137_perspective-center_trimmed-paper-in-water",
+      "upstream_file": "ltx-2-19b-dev-1stage__0137_perspective-center_trimmed-paper-in-water.mp4",
+      "file": "videos/eca7f25ef20fe7d8ab0cb1cd7a8abd9e0163c2ba277cab69f81e6b4e7b6e48a3.mp4",
+      "bytes": 214296,
+      "sha256": "eca7f25ef20fe7d8ab0cb1cd7a8abd9e0163c2ba277cab69f81e6b4e7b6e48a3"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-2b::mechanics_286",
+      "upstream_file": "cosmos-predict2.5-2b__mechanics_286.mp4",
+      "file": "videos/e497effd62e683c009c7ed6bed1d7eb9ac171bca8e75354290b295ec0f984b07.mp4",
+      "bytes": 1006592,
+      "sha256": "e497effd62e683c009c7ed6bed1d7eb9ac171bca8e75354290b295ec0f984b07"
+    },
+    {
+      "record_id": "phyground::ltx-2-19b-dev-1stage::HaWe0Af_0hg_6_0to222",
+      "upstream_file": "ltx-2-19b-dev-1stage__HaWe0Af_0hg_6_0to222.mp4",
+      "file": "videos/3894fba34e496f330801247482558dca4f654f8d2cfdf57f206ca95d1e26b57a.mp4",
+      "bytes": 285724,
+      "sha256": "3894fba34e496f330801247482558dca4f654f8d2cfdf57f206ca95d1e26b57a"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-14b::HaWe0Af_0hg_6_0to222",
+      "upstream_file": "cosmos-predict2.5-14b__HaWe0Af_0hg_6_0to222.mp4",
+      "file": "videos/201594dda5aaad9e50356a52f187a0eba53a5cd835f33dc768e42b81ecd64062.mp4",
+      "bytes": 301533,
+      "sha256": "201594dda5aaad9e50356a52f187a0eba53a5cd835f33dc768e42b81ecd64062"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::mechanics_193",
+      "upstream_file": "wan2.2-i2v-a14b__mechanics_193.mp4",
+      "file": "videos/1cdb5bbba54278d9e20f78d348a3a60c3790c2329222209e60f951a5d2d1a442.mp4",
+      "bytes": 88529,
+      "sha256": "1cdb5bbba54278d9e20f78d348a3a60c3790c2329222209e60f951a5d2d1a442"
+    },
+    {
+      "record_id": "phyground::omniweaving::mechanics_294",
+      "upstream_file": "omniweaving__mechanics_294.mp4",
+      "file": "videos/e8b9bd5a500273b246ae13d5eb15f8e9bc1fe33d06e6fced645156b327398023.mp4",
+      "bytes": 783876,
+      "sha256": "e8b9bd5a500273b246ae13d5eb15f8e9bc1fe33d06e6fced645156b327398023"
+    },
+    {
+      "record_id": "phyground::veo-3.1::0047_perspective-center_trimmed-domino-in-juice",
+      "upstream_file": "veo-3.1__0047_perspective-center_trimmed-domino-in-juice.mp4",
+      "file": "videos/7500063a15ff42d8f2d5746684d2d9c250b99856cdb19b55951c4bd1bb37780e.mp4",
+      "bytes": 1489036,
+      "sha256": "7500063a15ff42d8f2d5746684d2d9c250b99856cdb19b55951c4bd1bb37780e"
+    },
+    {
+      "record_id": "phyground::veo-3.1::mechanics_72",
+      "upstream_file": "veo-3.1__mechanics_72.mp4",
+      "file": "videos/4355d453fb123179faa89be5b36aeee4ea4443754e1b9cdeb43bf4cd59ddc719.mp4",
+      "bytes": 1985370,
+      "sha256": "4355d453fb123179faa89be5b36aeee4ea4443754e1b9cdeb43bf4cd59ddc719"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-2b::collision_264",
+      "upstream_file": "cosmos-predict2.5-2b__collision_264.mp4",
+      "file": "videos/bd3c17180df999b0cef8661da9d8804415723189664e9431af00287747bf85da.mp4",
+      "bytes": 853535,
+      "sha256": "bd3c17180df999b0cef8661da9d8804415723189664e9431af00287747bf85da"
+    },
+    {
+      "record_id": "phyground::ltx-2-19b-dev-1stage::mechanics_438",
+      "upstream_file": "ltx-2-19b-dev-1stage__mechanics_438.mp4",
+      "file": "videos/da4814cfee4d1c6ba1f0e43cd17ff38231d22551e47d6af859f7eb16df05474e.mp4",
+      "bytes": 465923,
+      "sha256": "da4814cfee4d1c6ba1f0e43cd17ff38231d22551e47d6af859f7eb16df05474e"
+    },
+    {
+      "record_id": "phyground::ltx-2.3-22b-dev-1stage::HaWe0Af_0hg_6_0to222",
+      "upstream_file": "ltx-2.3-22b-dev-1stage__HaWe0Af_0hg_6_0to222.mp4",
+      "file": "videos/dd36a4a565f73e005fdbf9bf720fdc825124ef555173d1bdb2015722535cc3a2.mp4",
+      "bytes": 348172,
+      "sha256": "dd36a4a565f73e005fdbf9bf720fdc825124ef555173d1bdb2015722535cc3a2"
+    },
+    {
+      "record_id": "phyground::veo-3.1::AupVdYKP3bo_5_0to165",
+      "upstream_file": "veo-3.1__AupVdYKP3bo_5_0to165.mp4",
+      "file": "videos/f2305ae684cbe3e7e26a779c9db74a492573c7eaec6d6b41336c3779079de628.mp4",
+      "bytes": 4289409,
+      "sha256": "f2305ae684cbe3e7e26a779c9db74a492573c7eaec6d6b41336c3779079de628"
+    },
+    {
+      "record_id": "phyground::veo-3.1::mechanics_547",
+      "upstream_file": "veo-3.1__mechanics_547.mp4",
+      "file": "videos/3fdc1adef9a7752392d68bf1fd4f055dab453f2178c6176a037a18f7735e9c6b.mp4",
+      "bytes": 9850253,
+      "sha256": "3fdc1adef9a7752392d68bf1fd4f055dab453f2178c6176a037a18f7735e9c6b"
+    },
+    {
+      "record_id": "phyground::ltx-2-19b-dev-1stage::0104_perspective-center_trimmed-marble-run-x",
+      "upstream_file": "ltx-2-19b-dev-1stage__0104_perspective-center_trimmed-marble-run-x.mp4",
+      "file": "videos/956d6194c6663d9a1bcd1a20a78c1c12199fc752aeb63e3528d6833ebfb2ae8a.mp4",
+      "bytes": 221401,
+      "sha256": "956d6194c6663d9a1bcd1a20a78c1c12199fc752aeb63e3528d6833ebfb2ae8a"
+    },
+    {
+      "record_id": "phyground::omniweaving::mechanics_240",
+      "upstream_file": "omniweaving__mechanics_240.mp4",
+      "file": "videos/9013dc1761ac18204d1aa217db2542542cb48c2b3f398dcbfa1ee898dbe1a054.mp4",
+      "bytes": 308805,
+      "sha256": "9013dc1761ac18204d1aa217db2542542cb48c2b3f398dcbfa1ee898dbe1a054"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-2b::collision_542",
+      "upstream_file": "cosmos-predict2.5-2b__collision_542.mp4",
+      "file": "videos/66f5a285e7d94faaf1e3b98cbc9e0452198b2b1a25f5a05c4b7e7c69bbeb01ff.mp4",
+      "bytes": 305048,
+      "sha256": "66f5a285e7d94faaf1e3b98cbc9e0452198b2b1a25f5a05c4b7e7c69bbeb01ff"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-14b::0029_perspective-center_trimmed-ball-train",
+      "upstream_file": "cosmos-predict2.5-14b__0029_perspective-center_trimmed-ball-train.mp4",
+      "file": "videos/ae287d889ea587cb071b9f8ad76617e80789ff490208b8da5a4d85166903ee23.mp4",
+      "bytes": 386974,
+      "sha256": "ae287d889ea587cb071b9f8ad76617e80789ff490208b8da5a4d85166903ee23"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-2b::57UqPDirHoU_15_24to135",
+      "upstream_file": "cosmos-predict2.5-2b__57UqPDirHoU_15_24to135.mp4",
+      "file": "videos/e42cde8a78a44bf783a8f787ff704bc1fc44df01ad3461edf807e67cff84ce67.mp4",
+      "bytes": 1011178,
+      "sha256": "e42cde8a78a44bf783a8f787ff704bc1fc44df01ad3461edf807e67cff84ce67"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::0017_perspective-center_trimmed-ball-in-sand",
+      "upstream_file": "wan2.2-i2v-a14b__0017_perspective-center_trimmed-ball-in-sand.mp4",
+      "file": "videos/ea0acde007c4dd31e18a6a0fee37863a92becca7988fa608a88a4ddc9e2b3ac9.mp4",
+      "bytes": 153384,
+      "sha256": "ea0acde007c4dd31e18a6a0fee37863a92becca7988fa608a88a4ddc9e2b3ac9"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-2b::mechanics_182",
+      "upstream_file": "cosmos-predict2.5-2b__mechanics_182.mp4",
+      "file": "videos/9912afe68113887feb5076bc5757e19de06cd1aa17dee3127903bced298f8196.mp4",
+      "bytes": 1115220,
+      "sha256": "9912afe68113887feb5076bc5757e19de06cd1aa17dee3127903bced298f8196"
+    },
+    {
+      "record_id": "phyground::ltx-2.3-22b-dev-1stage::FNIitZt3pyc_59_78to215",
+      "upstream_file": "ltx-2.3-22b-dev-1stage__FNIitZt3pyc_59_78to215.mp4",
+      "file": "videos/85cf85bb0297bd62747251346c5191e1aeabae92d5bae6252fb0e224398f3e05.mp4",
+      "bytes": 3010984,
+      "sha256": "85cf85bb0297bd62747251346c5191e1aeabae92d5bae6252fb0e224398f3e05"
+    },
+    {
+      "record_id": "phyground::veo-3.1::collision_468",
+      "upstream_file": "veo-3.1__collision_468.mp4",
+      "file": "videos/19cded321126f4c46042a6b48ae90c23bc0eb10851d793c5203e7dd1afb01c6a.mp4",
+      "bytes": 3928988,
+      "sha256": "19cded321126f4c46042a6b48ae90c23bc0eb10851d793c5203e7dd1afb01c6a"
+    },
+    {
+      "record_id": "phyground::veo-3.1::mechanics_245",
+      "upstream_file": "veo-3.1__mechanics_245.mp4",
+      "file": "videos/0661d191897128ba6b4a79729679e3543d87dead9da8ebfca8be8d7daae71290.mp4",
+      "bytes": 8070579,
+      "sha256": "0661d191897128ba6b4a79729679e3543d87dead9da8ebfca8be8d7daae71290"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-14b::mechanics_286",
+      "upstream_file": "cosmos-predict2.5-14b__mechanics_286.mp4",
+      "file": "videos/48825c6036009f7538c50bd2f6f2afd6d5db6fc90c27adec17c507fc8ae078b6.mp4",
+      "bytes": 936147,
+      "sha256": "48825c6036009f7538c50bd2f6f2afd6d5db6fc90c27adec17c507fc8ae078b6"
+    },
+    {
+      "record_id": "phyground::ltx-2-19b-dev-1stage::mechanics_476",
+      "upstream_file": "ltx-2-19b-dev-1stage__mechanics_476.mp4",
+      "file": "videos/a80649b98132ec8006db22d6d7ac8c35b674ac1169564116e24089d02c11108f.mp4",
+      "bytes": 866016,
+      "sha256": "a80649b98132ec8006db22d6d7ac8c35b674ac1169564116e24089d02c11108f"
+    },
+    {
+      "record_id": "phyground::wan2.2-ti2v-5b::mechanics_85",
+      "upstream_file": "wan2.2-ti2v-5b__mechanics_85.mp4",
+      "file": "videos/99dc14a640fbe82d87f1806e25e95da3a8b0bbccc67856c75cdf819bbb199ef0.mp4",
+      "bytes": 781359,
+      "sha256": "99dc14a640fbe82d87f1806e25e95da3a8b0bbccc67856c75cdf819bbb199ef0"
+    },
+    {
+      "record_id": "phyground::ltx-2-19b-dev-1stage::hardness_288",
+      "upstream_file": "ltx-2-19b-dev-1stage__hardness_288.mp4",
+      "file": "videos/d8ace302a0b5003c7b2e20c15a237f9b8bdb09dcca30ff471356cb3649396de4.mp4",
+      "bytes": 238168,
+      "sha256": "d8ace302a0b5003c7b2e20c15a237f9b8bdb09dcca30ff471356cb3649396de4"
+    },
+    {
+      "record_id": "phyground::omniweaving::0008_perspective-center_trimmed-ball-hits-duck",
+      "upstream_file": "omniweaving__0008_perspective-center_trimmed-ball-hits-duck.mp4",
+      "file": "videos/942b10f94035a7c95b4e476e62858f677ddec917cf7d986b5e8768d6cdad3d18.mp4",
+      "bytes": 120861,
+      "sha256": "942b10f94035a7c95b4e476e62858f677ddec917cf7d986b5e8768d6cdad3d18"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-2b::collision_403",
+      "upstream_file": "cosmos-predict2.5-2b__collision_403.mp4",
+      "file": "videos/8c99e46b0d68bbef68f72a69347868d1a78ef39ee554bff392338868a4d2917a.mp4",
+      "bytes": 998896,
+      "sha256": "8c99e46b0d68bbef68f72a69347868d1a78ef39ee554bff392338868a4d2917a"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-2b::0035_perspective-center_trimmed-block-domino",
+      "upstream_file": "cosmos-predict2.5-2b__0035_perspective-center_trimmed-block-domino.mp4",
+      "file": "videos/97229f438c756ff30823f017dbd5915b735e4d5cbc9c42b93859d9a9c4dd11ef.mp4",
+      "bytes": 417446,
+      "sha256": "97229f438c756ff30823f017dbd5915b735e4d5cbc9c42b93859d9a9c4dd11ef"
+    },
+    {
+      "record_id": "phyground::wan2.2-ti2v-5b::mechanics_216",
+      "upstream_file": "wan2.2-ti2v-5b__mechanics_216.mp4",
+      "file": "videos/8390dcab2644a6bc5a11e4e303905432af84cb163909891ecfc12d94f95d8042.mp4",
+      "bytes": 736386,
+      "sha256": "8390dcab2644a6bc5a11e4e303905432af84cb163909891ecfc12d94f95d8042"
+    },
+    {
+      "record_id": "phyground::ltx-2.3-22b-dev-1stage::mechanics_268",
+      "upstream_file": "ltx-2.3-22b-dev-1stage__mechanics_268.mp4",
+      "file": "videos/b9b170f6736b30a441225871d0291d4b94ac01db7944af6f2248b58f8fd8353c.mp4",
+      "bytes": 439139,
+      "sha256": "b9b170f6736b30a441225871d0291d4b94ac01db7944af6f2248b58f8fd8353c"
+    },
+    {
+      "record_id": "phyground::omniweaving::Sl3C5JMaCTo_22_0to159",
+      "upstream_file": "omniweaving__Sl3C5JMaCTo_22_0to159.mp4",
+      "file": "videos/ceeb2209ab7ab280e4d6f59fd31759e5a0f94cc3aaaaefcf6de5b87914d48957.mp4",
+      "bytes": 412232,
+      "sha256": "ceeb2209ab7ab280e4d6f59fd31759e5a0f94cc3aaaaefcf6de5b87914d48957"
+    },
+    {
+      "record_id": "phyground::omniweaving::mechanics_476",
+      "upstream_file": "omniweaving__mechanics_476.mp4",
+      "file": "videos/e1e50696935e42588946512ec0c6df74aaa345c20c037bae31bd01189f37ff6b.mp4",
+      "bytes": 880935,
+      "sha256": "e1e50696935e42588946512ec0c6df74aaa345c20c037bae31bd01189f37ff6b"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::mechanics_293",
+      "upstream_file": "wan2.2-i2v-a14b__mechanics_293.mp4",
+      "file": "videos/43107af347c8184260a82acfe4f966956fe353d1bf619bd0825c3cbe3b72fdc6.mp4",
+      "bytes": 274117,
+      "sha256": "43107af347c8184260a82acfe4f966956fe353d1bf619bd0825c3cbe3b72fdc6"
+    },
+    {
+      "record_id": "phyground::veo-3.1::collision_542",
+      "upstream_file": "veo-3.1__collision_542.mp4",
+      "file": "videos/1ab7aa98738227f18995c89d1bc12b633ae8ec42daa8c8ec4d7257c19f3f9fa1.mp4",
+      "bytes": 3208706,
+      "sha256": "1ab7aa98738227f18995c89d1bc12b633ae8ec42daa8c8ec4d7257c19f3f9fa1"
+    },
+    {
+      "record_id": "phyground::veo-3.1::LReETYVrmo0_7_70to284",
+      "upstream_file": "veo-3.1__LReETYVrmo0_7_70to284.mp4",
+      "file": "videos/8f27f71ceeeff1dcef55523eda3c5610f75f6469b3db83d0e71fcf543f25e48f.mp4",
+      "bytes": 9348600,
+      "sha256": "8f27f71ceeeff1dcef55523eda3c5610f75f6469b3db83d0e71fcf543f25e48f"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::0035_perspective-center_trimmed-block-domino",
+      "upstream_file": "wan2.2-i2v-a14b__0035_perspective-center_trimmed-block-domino.mp4",
+      "file": "videos/ce010034b456ca4b6a735666e3b491a14f0cd95ebd852097d4975a2327b65c17.mp4",
+      "bytes": 140256,
+      "sha256": "ce010034b456ca4b6a735666e3b491a14f0cd95ebd852097d4975a2327b65c17"
+    },
+    {
+      "record_id": "phyground::ltx-2-19b-dev-1stage::mechanics_187",
+      "upstream_file": "ltx-2-19b-dev-1stage__mechanics_187.mp4",
+      "file": "videos/c36f599958eb41e0948ad109d6f789190f7a15609359ae1dee30d445cc8d4175.mp4",
+      "bytes": 578590,
+      "sha256": "c36f599958eb41e0948ad109d6f789190f7a15609359ae1dee30d445cc8d4175"
+    },
+    {
+      "record_id": "phyground::ltx-2-19b-dev-1stage::mechanics_81",
+      "upstream_file": "ltx-2-19b-dev-1stage__mechanics_81.mp4",
+      "file": "videos/e4923f1074f1ed5101c6abf0a6eb5c78eff72011ee507644410dc58a0699aa24.mp4",
+      "bytes": 758508,
+      "sha256": "e4923f1074f1ed5101c6abf0a6eb5c78eff72011ee507644410dc58a0699aa24"
+    },
+    {
+      "record_id": "phyground::wan2.2-ti2v-5b::7_O1YdVAWSU_14_0to102",
+      "upstream_file": "wan2.2-ti2v-5b__7_O1YdVAWSU_14_0to102.mp4",
+      "file": "videos/9ef70580eb88cbd0aef6db2cd46220aabc71b840f04ac504ddf9fe2d4afd05af.mp4",
+      "bytes": 766945,
+      "sha256": "9ef70580eb88cbd0aef6db2cd46220aabc71b840f04ac504ddf9fe2d4afd05af"
+    },
+    {
+      "record_id": "phyground::ltx-2.3-22b-dev-1stage::collision_431",
+      "upstream_file": "ltx-2.3-22b-dev-1stage__collision_431.mp4",
+      "file": "videos/11b1815994c11e635b530a098ed22b40847b57bd98956b930c7c99be13993d5a.mp4",
+      "bytes": 996792,
+      "sha256": "11b1815994c11e635b530a098ed22b40847b57bd98956b930c7c99be13993d5a"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-14b::Nq94DTV2MiY_12_116to243",
+      "upstream_file": "cosmos-predict2.5-14b__Nq94DTV2MiY_12_116to243.mp4",
+      "file": "videos/e745b86639ec3fdfa1ee9704bed802e107826e69d2875ee182a25fd218d369be.mp4",
+      "bytes": 1382849,
+      "sha256": "e745b86639ec3fdfa1ee9704bed802e107826e69d2875ee182a25fd218d369be"
+    },
+    {
+      "record_id": "phyground::ltx-2-19b-dev-1stage::UsL5HzxP68A_2_76to287",
+      "upstream_file": "ltx-2-19b-dev-1stage__UsL5HzxP68A_2_76to287.mp4",
+      "file": "videos/86d4b6e2735254c6dab6e80a07857bf23a6941ef98cb4fb6fc541b47f93c5e01.mp4",
+      "bytes": 423315,
+      "sha256": "86d4b6e2735254c6dab6e80a07857bf23a6941ef98cb4fb6fc541b47f93c5e01"
+    },
+    {
+      "record_id": "phyground::ltx-2.3-22b-dev-1stage::0020_perspective-center_trimmed-ball-ramp",
+      "upstream_file": "ltx-2.3-22b-dev-1stage__0020_perspective-center_trimmed-ball-ramp.mp4",
+      "file": "videos/092ceda9ce7966a73193f48aaa07956ad34537144e8e2bde0d7331d378b6e799.mp4",
+      "bytes": 162306,
+      "sha256": "092ceda9ce7966a73193f48aaa07956ad34537144e8e2bde0d7331d378b6e799"
+    },
+    {
+      "record_id": "phyground::omniweaving::collision_399",
+      "upstream_file": "omniweaving__collision_399.mp4",
+      "file": "videos/1e05779d75f1e7d23f5de8ea18910a2979ae23a7ea0d1c906f6d62225e18a81e.mp4",
+      "bytes": 197599,
+      "sha256": "1e05779d75f1e7d23f5de8ea18910a2979ae23a7ea0d1c906f6d62225e18a81e"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::0134_perspective-center_trimmed-paper-fall-water",
+      "upstream_file": "wan2.2-i2v-a14b__0134_perspective-center_trimmed-paper-fall-water.mp4",
+      "file": "videos/6344b7777146c7fe5ae78c487f4eeef15a9c8873898170423490b49d0ac0a0d5.mp4",
+      "bytes": 147804,
+      "sha256": "6344b7777146c7fe5ae78c487f4eeef15a9c8873898170423490b49d0ac0a0d5"
+    },
+    {
+      "record_id": "phyground::wan2.2-ti2v-5b::Nq94DTV2MiY_12_116to243",
+      "upstream_file": "wan2.2-ti2v-5b__Nq94DTV2MiY_12_116to243.mp4",
+      "file": "videos/001a7c5fed3e02674c560354e66da782359c4a798217ee7aa4c7478a526d361f.mp4",
+      "bytes": 755419,
+      "sha256": "001a7c5fed3e02674c560354e66da782359c4a798217ee7aa4c7478a526d361f"
+    },
+    {
+      "record_id": "phyground::veo-3.1::collision_570",
+      "upstream_file": "veo-3.1__collision_570.mp4",
+      "file": "videos/663d47797702b93c6094dd629d46c6d27906ccfaf2546aa6216da03de81e2211.mp4",
+      "bytes": 5171317,
+      "sha256": "663d47797702b93c6094dd629d46c6d27906ccfaf2546aa6216da03de81e2211"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::collision_387",
+      "upstream_file": "wan2.2-i2v-a14b__collision_387.mp4",
+      "file": "videos/d461ed7ac850915b9283526612d15bf8edc6c3a3aa74120d20e90bdcf2ced6cc.mp4",
+      "bytes": 420425,
+      "sha256": "d461ed7ac850915b9283526612d15bf8edc6c3a3aa74120d20e90bdcf2ced6cc"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-14b::collision_264",
+      "upstream_file": "cosmos-predict2.5-14b__collision_264.mp4",
+      "file": "videos/f19e6727f1e6ca6f29d10ae9839afdf00603dfa0658685fbe3e9c5a6939be69d.mp4",
+      "bytes": 1046508,
+      "sha256": "f19e6727f1e6ca6f29d10ae9839afdf00603dfa0658685fbe3e9c5a6939be69d"
+    },
+    {
+      "record_id": "phyground::omniweaving::mechanics_52",
+      "upstream_file": "omniweaving__mechanics_52.mp4",
+      "file": "videos/ced76846513959bd7f268d2d8650fee2b09d045c4367ad3f0a77be041c68e72c.mp4",
+      "bytes": 993075,
+      "sha256": "ced76846513959bd7f268d2d8650fee2b09d045c4367ad3f0a77be041c68e72c"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::7_O1YdVAWSU_14_0to102",
+      "upstream_file": "wan2.2-i2v-a14b__7_O1YdVAWSU_14_0to102.mp4",
+      "file": "videos/20ac3a09914551c96e6e4cacf24a955b1f9c752a28e575b37ca2118103e5bdc2.mp4",
+      "bytes": 415140,
+      "sha256": "20ac3a09914551c96e6e4cacf24a955b1f9c752a28e575b37ca2118103e5bdc2"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-14b::0125_perspective-center_trimmed-mug-breaks",
+      "upstream_file": "cosmos-predict2.5-14b__0125_perspective-center_trimmed-mug-breaks.mp4",
+      "file": "videos/aa5c1e17503ae0149a9a4e03d2de3a4a0ecb1c2f848bbd53b7d4180e7adccbbc.mp4",
+      "bytes": 473987,
+      "sha256": "aa5c1e17503ae0149a9a4e03d2de3a4a0ecb1c2f848bbd53b7d4180e7adccbbc"
+    },
+    {
+      "record_id": "phyground::wan2.2-i2v-a14b::collision_581",
+      "upstream_file": "wan2.2-i2v-a14b__collision_581.mp4",
+      "file": "videos/f4c8791f30347375f4c294961d25a226d69d7cf8ba0c1695a633bc9fda896676.mp4",
+      "bytes": 328955,
+      "sha256": "f4c8791f30347375f4c294961d25a226d69d7cf8ba0c1695a633bc9fda896676"
+    },
+    {
+      "record_id": "phyground::cosmos-predict2.5-2b::mechanics_293",
+      "upstream_file": "cosmos-predict2.5-2b__mechanics_293.mp4",
+      "file": "videos/edae7ea0c83928db7d8f7e1494890ae9b98f3a21df4fceec09df95ac4583a33a.mp4",
+      "bytes": 625353,
+      "sha256": "edae7ea0c83928db7d8f7e1494890ae9b98f3a21df4fceec09df95ac4583a33a"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1103_wan",
+      "upstream_file": "vp2_1103_wan.mp4",
+      "file": "videos/e213e9fba2afbc175fd849586c7f878ea4443fab726cc96da1fcd1bff98448c0.mp4",
+      "bytes": 4394603,
+      "sha256": "e213e9fba2afbc175fd849586c7f878ea4443fab726cc96da1fcd1bff98448c0"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3138_wan",
+      "upstream_file": "vp2_3138_wan.mp4",
+      "file": "videos/663283ff8ecf46531d1364cee9892bed0569baadc39d30060976fd6b719e5319.mp4",
+      "bytes": 2230261,
+      "sha256": "663283ff8ecf46531d1364cee9892bed0569baadc39d30060976fd6b719e5319"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0896_cosmos",
+      "upstream_file": "vp2_0896_cosmos.mp4",
+      "file": "videos/8ef0190644ad49953a0a21c29a391b64765584d6e239161777b3d16f0219a328.mp4",
+      "bytes": 683670,
+      "sha256": "8ef0190644ad49953a0a21c29a391b64765584d6e239161777b3d16f0219a328"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3087_cogvideo",
+      "upstream_file": "vp2_3087_cogvideo.mp4",
+      "file": "videos/fe296bfabc3f4de6fff0a14a971676c7b62d05c3caba557d9d131f3232dde80c.mp4",
+      "bytes": 278735,
+      "sha256": "fe296bfabc3f4de6fff0a14a971676c7b62d05c3caba557d9d131f3232dde80c"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0617_ray2",
+      "upstream_file": "vp2_0617_ray2.mp4",
+      "file": "videos/0e951cb4a50eed4454b161f792f6bd4c2ecea56bc4fe0d101b3018c4eafd07ca.mp4",
+      "bytes": 1034156,
+      "sha256": "0e951cb4a50eed4454b161f792f6bd4c2ecea56bc4fe0d101b3018c4eafd07ca"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1264_ray2",
+      "upstream_file": "vp2_1264_ray2.mp4",
+      "file": "videos/eaca7c68989c71a91f1ab597f5306bb440fc4d8d1ee7101f86606e6a8fd06363.mp4",
+      "bytes": 6211660,
+      "sha256": "eaca7c68989c71a91f1ab597f5306bb440fc4d8d1ee7101f86606e6a8fd06363"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1256_ray2",
+      "upstream_file": "vp2_1256_ray2.mp4",
+      "file": "videos/8421c6b69199c139084c9aaebff19fb7366d7bd1e8369d2052479c15334a0dbc.mp4",
+      "bytes": 1760252,
+      "sha256": "8421c6b69199c139084c9aaebff19fb7366d7bd1e8369d2052479c15334a0dbc"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0490_ray2",
+      "upstream_file": "vp2_0490_ray2.mp4",
+      "file": "videos/2407dda7350432879a6d883ee97724fa5311c9469f980f1353ca9adad99f9cbd.mp4",
+      "bytes": 2987542,
+      "sha256": "2407dda7350432879a6d883ee97724fa5311c9469f980f1353ca9adad99f9cbd"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2369_wan",
+      "upstream_file": "vp2_2369_wan.mp4",
+      "file": "videos/9ad9f7ca015705536aa7c257b0411cad63574e257b18ab53de7d38d7e22bf295.mp4",
+      "bytes": 1799989,
+      "sha256": "9ad9f7ca015705536aa7c257b0411cad63574e257b18ab53de7d38d7e22bf295"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1260_cogvideo",
+      "upstream_file": "vp2_1260_cogvideo.mp4",
+      "file": "videos/ff7b7a0942d7ed4d301c84de66e39dcfdd68a10928fa48da3ab74804014447cb.mp4",
+      "bytes": 427256,
+      "sha256": "ff7b7a0942d7ed4d301c84de66e39dcfdd68a10928fa48da3ab74804014447cb"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2356_wan",
+      "upstream_file": "vp2_2356_wan.mp4",
+      "file": "videos/054eed83ef494a827961f308a81c919d4334a51f71cb5e4747bba69b2866c6e8.mp4",
+      "bytes": 2342010,
+      "sha256": "054eed83ef494a827961f308a81c919d4334a51f71cb5e4747bba69b2866c6e8"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2621_cosmos",
+      "upstream_file": "vp2_2621_cosmos.mp4",
+      "file": "videos/1242a13b10f5f7c401862bfba1297f2b27bffdbe981a57345bdcd41fad20063d.mp4",
+      "bytes": 716295,
+      "sha256": "1242a13b10f5f7c401862bfba1297f2b27bffdbe981a57345bdcd41fad20063d"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1006_cosmos",
+      "upstream_file": "vp2_1006_cosmos.mp4",
+      "file": "videos/00a00634e2729beeff8f7190797d272dab6911e4eeeeb22123bf413232aa3ca3.mp4",
+      "bytes": 519843,
+      "sha256": "00a00634e2729beeff8f7190797d272dab6911e4eeeeb22123bf413232aa3ca3"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2144_cosmos",
+      "upstream_file": "vp2_2144_cosmos.mp4",
+      "file": "videos/f51ce8cb9c3d831e0803b7233df689fb57e3d686092ce872133aaee2d0f15c54.mp4",
+      "bytes": 754274,
+      "sha256": "f51ce8cb9c3d831e0803b7233df689fb57e3d686092ce872133aaee2d0f15c54"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1778_hunyuan",
+      "upstream_file": "vp2_1778_hunyuan.mp4",
+      "file": "videos/20f9a87ba7c88d91d0c55c05cf7970e764c56c42b7f4d114e2120fa27571878e.mp4",
+      "bytes": 247995,
+      "sha256": "20f9a87ba7c88d91d0c55c05cf7970e764c56c42b7f4d114e2120fa27571878e"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1041_wan",
+      "upstream_file": "vp2_1041_wan.mp4",
+      "file": "videos/b8ab5eefc93712681dd21bfe7dd78c0b6af1eacebf3fbcc9130b61756d2a85ac.mp4",
+      "bytes": 1350781,
+      "sha256": "b8ab5eefc93712681dd21bfe7dd78c0b6af1eacebf3fbcc9130b61756d2a85ac"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2640_hunyuan",
+      "upstream_file": "vp2_2640_hunyuan.mp4",
+      "file": "videos/2459294582c4206430bfbc11faec65f51eac9f5390ce5dea4d79d5d045bc5404.mp4",
+      "bytes": 44984,
+      "sha256": "2459294582c4206430bfbc11faec65f51eac9f5390ce5dea4d79d5d045bc5404"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3197_hunyuan",
+      "upstream_file": "vp2_3197_hunyuan.mp4",
+      "file": "videos/0b3ff4dfe16b833ce0382d5f9360f52e3685607cc1a79d7e8f0c36f9168bdb30.mp4",
+      "bytes": 68045,
+      "sha256": "0b3ff4dfe16b833ce0382d5f9360f52e3685607cc1a79d7e8f0c36f9168bdb30"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1448_ray2",
+      "upstream_file": "vp2_1448_ray2.mp4",
+      "file": "videos/9d5c36bb91dc90d070351a1b10e230d170a49d246312a8e22459f80b3d684004.mp4",
+      "bytes": 1127251,
+      "sha256": "9d5c36bb91dc90d070351a1b10e230d170a49d246312a8e22459f80b3d684004"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1139_wan",
+      "upstream_file": "vp2_1139_wan.mp4",
+      "file": "videos/a7df3888154fe3f9e311df4e101147e6c881275a3502bbe4c42496eeef6ad53b.mp4",
+      "bytes": 1479744,
+      "sha256": "a7df3888154fe3f9e311df4e101147e6c881275a3502bbe4c42496eeef6ad53b"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1189_cosmos",
+      "upstream_file": "vp2_1189_cosmos.mp4",
+      "file": "videos/3ca01279a91b9aaa81c76aade62c34a0aab26595361697c76ba3013603511ad8.mp4",
+      "bytes": 652632,
+      "sha256": "3ca01279a91b9aaa81c76aade62c34a0aab26595361697c76ba3013603511ad8"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0240_hunyuan",
+      "upstream_file": "vp2_0240_hunyuan.mp4",
+      "file": "videos/61b9f7e23a763c080a3f7d402b38e8f463d9beb06d95c443316fa9c32847109e.mp4",
+      "bytes": 73390,
+      "sha256": "61b9f7e23a763c080a3f7d402b38e8f463d9beb06d95c443316fa9c32847109e"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2320_cogvideo",
+      "upstream_file": "vp2_2320_cogvideo.mp4",
+      "file": "videos/1001ec34d147638b430e0540300964be55e468c1f4a36317bf3b0b071aa03a4a.mp4",
+      "bytes": 89320,
+      "sha256": "1001ec34d147638b430e0540300964be55e468c1f4a36317bf3b0b071aa03a4a"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0738_cosmos",
+      "upstream_file": "vp2_0738_cosmos.mp4",
+      "file": "videos/a50f8b03e836f3bebd3cae561391d5747068f70de0ad6af7bac61651a569ed60.mp4",
+      "bytes": 1118757,
+      "sha256": "a50f8b03e836f3bebd3cae561391d5747068f70de0ad6af7bac61651a569ed60"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0293_wan",
+      "upstream_file": "vp2_0293_wan.mp4",
+      "file": "videos/8ff920c66c644fd726cb424ac5972fd9168a7ab6743b2b035f0788edd65cb680.mp4",
+      "bytes": 2049589,
+      "sha256": "8ff920c66c644fd726cb424ac5972fd9168a7ab6743b2b035f0788edd65cb680"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1287_wan",
+      "upstream_file": "vp2_1287_wan.mp4",
+      "file": "videos/8b1e02467884430625d05a8019f58a896071aacb01aabd4d84badde9808f05fe.mp4",
+      "bytes": 4123730,
+      "sha256": "8b1e02467884430625d05a8019f58a896071aacb01aabd4d84badde9808f05fe"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2604_sora",
+      "upstream_file": "vp2_2604_sora.mp4",
+      "file": "videos/12edea88f1fea9035a5f558765b22c8abd2c3e9d52f21a07e6f6cd8fc38715b1.mp4",
+      "bytes": 1724687,
+      "sha256": "12edea88f1fea9035a5f558765b22c8abd2c3e9d52f21a07e6f6cd8fc38715b1"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0406_cosmos",
+      "upstream_file": "vp2_0406_cosmos.mp4",
+      "file": "videos/fe770521d11c4ae7fadcc0f1a2eeacf8ee36b1b858e2bcc7fd4717ac3cb7a9f0.mp4",
+      "bytes": 1243651,
+      "sha256": "fe770521d11c4ae7fadcc0f1a2eeacf8ee36b1b858e2bcc7fd4717ac3cb7a9f0"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2652_cosmos",
+      "upstream_file": "vp2_2652_cosmos.mp4",
+      "file": "videos/09b86d325f0c4c855513d5c1a9fec37379bdbb68476eb3f089e03d43e397f5b3.mp4",
+      "bytes": 854497,
+      "sha256": "09b86d325f0c4c855513d5c1a9fec37379bdbb68476eb3f089e03d43e397f5b3"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0489_cosmos",
+      "upstream_file": "vp2_0489_cosmos.mp4",
+      "file": "videos/c353ad3567a21f01962ece68658a95b9d513d7346b1e245a9ee7c3a4cdae11f9.mp4",
+      "bytes": 598450,
+      "sha256": "c353ad3567a21f01962ece68658a95b9d513d7346b1e245a9ee7c3a4cdae11f9"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0756_cosmos",
+      "upstream_file": "vp2_0756_cosmos.mp4",
+      "file": "videos/2ecbb37e32cf8ddee2793a4b56827b42ff6b198bb23824a192a10bf75ec9d8e1.mp4",
+      "bytes": 953045,
+      "sha256": "2ecbb37e32cf8ddee2793a4b56827b42ff6b198bb23824a192a10bf75ec9d8e1"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0911_cogvideo",
+      "upstream_file": "vp2_0911_cogvideo.mp4",
+      "file": "videos/b8baaf4f112034ceed24ec77e93a79cd351052081ae3931ba5dc1a516b80f1d3.mp4",
+      "bytes": 517712,
+      "sha256": "b8baaf4f112034ceed24ec77e93a79cd351052081ae3931ba5dc1a516b80f1d3"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0377_cosmos",
+      "upstream_file": "vp2_0377_cosmos.mp4",
+      "file": "videos/ac843666a95644840f840f22200dc69b5701c01f7252d72b8cd81565807542c4.mp4",
+      "bytes": 949000,
+      "sha256": "ac843666a95644840f840f22200dc69b5701c01f7252d72b8cd81565807542c4"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0898_cosmos",
+      "upstream_file": "vp2_0898_cosmos.mp4",
+      "file": "videos/58c7e6aa893ce0cbe27900dcb18112f2368377c679808702cb4e71ca13cc2542.mp4",
+      "bytes": 1101176,
+      "sha256": "58c7e6aa893ce0cbe27900dcb18112f2368377c679808702cb4e71ca13cc2542"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1119_cosmos",
+      "upstream_file": "vp2_1119_cosmos.mp4",
+      "file": "videos/22ef445ec77085756499f04cf46c37e8db74010c123bb7b1ecc0b82d3ed4f221.mp4",
+      "bytes": 599834,
+      "sha256": "22ef445ec77085756499f04cf46c37e8db74010c123bb7b1ecc0b82d3ed4f221"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1898_hunyuan",
+      "upstream_file": "vp2_1898_hunyuan.mp4",
+      "file": "videos/fe792a9567c135ccc5ca2fc7e72bdd35cb441c3666a5c0b5b22303063b6f4ca8.mp4",
+      "bytes": 60369,
+      "sha256": "fe792a9567c135ccc5ca2fc7e72bdd35cb441c3666a5c0b5b22303063b6f4ca8"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1113_cosmos",
+      "upstream_file": "vp2_1113_cosmos.mp4",
+      "file": "videos/1589fccb14615eed24a412e23c44adfcd773b2b0860a63258d6aaa6c7fa903c7.mp4",
+      "bytes": 567663,
+      "sha256": "1589fccb14615eed24a412e23c44adfcd773b2b0860a63258d6aaa6c7fa903c7"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0281_ray2",
+      "upstream_file": "vp2_0281_ray2.mp4",
+      "file": "videos/769f0b8bd34945852fb3e30875c0d82323f765ff9e96bf69060f1dbef1f8bc8a.mp4",
+      "bytes": 1870305,
+      "sha256": "769f0b8bd34945852fb3e30875c0d82323f765ff9e96bf69060f1dbef1f8bc8a"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0623_ray2",
+      "upstream_file": "vp2_0623_ray2.mp4",
+      "file": "videos/20c26c5885122d035c5092241e6b183dfdd7491dd3ce6376d78471bdc1a828a6.mp4",
+      "bytes": 7556203,
+      "sha256": "20c26c5885122d035c5092241e6b183dfdd7491dd3ce6376d78471bdc1a828a6"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3148_ray2",
+      "upstream_file": "vp2_3148_ray2.mp4",
+      "file": "videos/160ef88e07a27aeb876666e190ffd9ec083f72b121043aaabf4c2b056a832e6f.mp4",
+      "bytes": 3296005,
+      "sha256": "160ef88e07a27aeb876666e190ffd9ec083f72b121043aaabf4c2b056a832e6f"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1842_cosmos",
+      "upstream_file": "vp2_1842_cosmos.mp4",
+      "file": "videos/cbf6e7ec01dfa7ede87f2cf7739071faedf03622f3a86185e5f623977f77f275.mp4",
+      "bytes": 464579,
+      "sha256": "cbf6e7ec01dfa7ede87f2cf7739071faedf03622f3a86185e5f623977f77f275"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2355_cosmos",
+      "upstream_file": "vp2_2355_cosmos.mp4",
+      "file": "videos/989a910b5f87caea3b9cbb914e6c13e871de0eb4a110fb2bc20c7f1c1d9748a7.mp4",
+      "bytes": 950628,
+      "sha256": "989a910b5f87caea3b9cbb914e6c13e871de0eb4a110fb2bc20c7f1c1d9748a7"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3175_hunyuan",
+      "upstream_file": "vp2_3175_hunyuan.mp4",
+      "file": "videos/031afd36afe97602cedb1f1da61cc97f1595126835f7cf3ee9736c43db24bc78.mp4",
+      "bytes": 107477,
+      "sha256": "031afd36afe97602cedb1f1da61cc97f1595126835f7cf3ee9736c43db24bc78"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0659_wan",
+      "upstream_file": "vp2_0659_wan.mp4",
+      "file": "videos/8a0a7eca26a4d453fb5ce39562a7f859310490b6570192d1e20e1ee52c1da851.mp4",
+      "bytes": 1612311,
+      "sha256": "8a0a7eca26a4d453fb5ce39562a7f859310490b6570192d1e20e1ee52c1da851"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2414_hunyuan",
+      "upstream_file": "vp2_2414_hunyuan.mp4",
+      "file": "videos/f773b76b5297ecc5fcc991531d49d42617c28f1cfd25dc892d3aa6bb53a475a0.mp4",
+      "bytes": 89460,
+      "sha256": "f773b76b5297ecc5fcc991531d49d42617c28f1cfd25dc892d3aa6bb53a475a0"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3334_wan",
+      "upstream_file": "vp2_3334_wan.mp4",
+      "file": "videos/0159ed76464de2646fe42861ac6c4e46a6d68d98b215e2099fb29ac068e305d1.mp4",
+      "bytes": 2098119,
+      "sha256": "0159ed76464de2646fe42861ac6c4e46a6d68d98b215e2099fb29ac068e305d1"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0227_wan",
+      "upstream_file": "vp2_0227_wan.mp4",
+      "file": "videos/f415d9895f5381901fc7053525e5ffaabaad51a0f828047f6f32f24fb498ef31.mp4",
+      "bytes": 1284412,
+      "sha256": "f415d9895f5381901fc7053525e5ffaabaad51a0f828047f6f32f24fb498ef31"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3110_cosmos",
+      "upstream_file": "vp2_3110_cosmos.mp4",
+      "file": "videos/4cfa6398ac82b47e3e9f2b7f62c1723c79a3b9d02f77a263e66ec0a14e0cec1c.mp4",
+      "bytes": 877881,
+      "sha256": "4cfa6398ac82b47e3e9f2b7f62c1723c79a3b9d02f77a263e66ec0a14e0cec1c"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2609_wan",
+      "upstream_file": "vp2_2609_wan.mp4",
+      "file": "videos/cf5d232ff845fba41a78eb61f7156b42dc1b1dcec22c20fa7682231497fd28cd.mp4",
+      "bytes": 2284728,
+      "sha256": "cf5d232ff845fba41a78eb61f7156b42dc1b1dcec22c20fa7682231497fd28cd"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3235_cogvideo",
+      "upstream_file": "vp2_3235_cogvideo.mp4",
+      "file": "videos/f135915178115b25a0ea86df257ae41c881763451ecdd7f6a4e880f3149cb074.mp4",
+      "bytes": 179795,
+      "sha256": "f135915178115b25a0ea86df257ae41c881763451ecdd7f6a4e880f3149cb074"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2246_wan",
+      "upstream_file": "vp2_2246_wan.mp4",
+      "file": "videos/445c453863b040d8b491fd3fcd6c210c83e67fe7614f53a694f8cae86d879c68.mp4",
+      "bytes": 5522704,
+      "sha256": "445c453863b040d8b491fd3fcd6c210c83e67fe7614f53a694f8cae86d879c68"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0442_wan",
+      "upstream_file": "vp2_0442_wan.mp4",
+      "file": "videos/fc9dbdd9bc002ad8c978ab910aed4c5c7d417028736ec9ffcea252ff7753a149.mp4",
+      "bytes": 1470621,
+      "sha256": "fc9dbdd9bc002ad8c978ab910aed4c5c7d417028736ec9ffcea252ff7753a149"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0437_hunyuan",
+      "upstream_file": "vp2_0437_hunyuan.mp4",
+      "file": "videos/06226c4b867399a00f12a580ebe3e5e3c8e607e92736473a0b7d065264fc99ec.mp4",
+      "bytes": 93407,
+      "sha256": "06226c4b867399a00f12a580ebe3e5e3c8e607e92736473a0b7d065264fc99ec"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1559_hunyuan",
+      "upstream_file": "vp2_1559_hunyuan.mp4",
+      "file": "videos/09380074dfc974dc788420ed5a97a9d24a9c1ee222d8e1a592b97c1b72ef6962.mp4",
+      "bytes": 182399,
+      "sha256": "09380074dfc974dc788420ed5a97a9d24a9c1ee222d8e1a592b97c1b72ef6962"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3098_cogvideo",
+      "upstream_file": "vp2_3098_cogvideo.mp4",
+      "file": "videos/a22dfa45357b7097ce417763b89e10e24548b33ee468bc7952d03427d85b8378.mp4",
+      "bytes": 543177,
+      "sha256": "a22dfa45357b7097ce417763b89e10e24548b33ee468bc7952d03427d85b8378"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0010_cogvideo",
+      "upstream_file": "vp2_0010_cogvideo.mp4",
+      "file": "videos/d5889958c6c77d0735b5587fd53d54e7dba773cf1e9fd1ecdef58df1370a6f0b.mp4",
+      "bytes": 368084,
+      "sha256": "d5889958c6c77d0735b5587fd53d54e7dba773cf1e9fd1ecdef58df1370a6f0b"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0850_wan",
+      "upstream_file": "vp2_0850_wan.mp4",
+      "file": "videos/e7fa0d8e44746b084697f60c388bb65c6af752bcc645baa28a9e30190785751b.mp4",
+      "bytes": 2738480,
+      "sha256": "e7fa0d8e44746b084697f60c388bb65c6af752bcc645baa28a9e30190785751b"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3256_cogvideo",
+      "upstream_file": "vp2_3256_cogvideo.mp4",
+      "file": "videos/bad7c7951739aff7b8a6cb93034b90ad4f539c13222d8874a80a76bf0bc7e447.mp4",
+      "bytes": 400209,
+      "sha256": "bad7c7951739aff7b8a6cb93034b90ad4f539c13222d8874a80a76bf0bc7e447"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2985_cosmos",
+      "upstream_file": "vp2_2985_cosmos.mp4",
+      "file": "videos/c8bcc0b6f56b9f625a6ca568b6156aab558cd76457604a8c61ca5760c1b35a45.mp4",
+      "bytes": 516176,
+      "sha256": "c8bcc0b6f56b9f625a6ca568b6156aab558cd76457604a8c61ca5760c1b35a45"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1161_wan",
+      "upstream_file": "vp2_1161_wan.mp4",
+      "file": "videos/902fc14178982193a30f80c9023d09f627b86167c6c3e7eefdb2411eee5efba7.mp4",
+      "bytes": 3033389,
+      "sha256": "902fc14178982193a30f80c9023d09f627b86167c6c3e7eefdb2411eee5efba7"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0017_cosmos",
+      "upstream_file": "vp2_0017_cosmos.mp4",
+      "file": "videos/ee5a7b7b6689801843e4b8deb3bdca33f6122313d73d271e12a9f41600505b70.mp4",
+      "bytes": 1279915,
+      "sha256": "ee5a7b7b6689801843e4b8deb3bdca33f6122313d73d271e12a9f41600505b70"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2599_cosmos",
+      "upstream_file": "vp2_2599_cosmos.mp4",
+      "file": "videos/164edcad5fbda2fe035e4a8655d68b590897ad2f1b86d648cf4094351a72ab26.mp4",
+      "bytes": 1227906,
+      "sha256": "164edcad5fbda2fe035e4a8655d68b590897ad2f1b86d648cf4094351a72ab26"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2455_wan",
+      "upstream_file": "vp2_2455_wan.mp4",
+      "file": "videos/c899f4f5510edf3a4f6aaddaf7d35975474f6400631dff805083f1750cca0ae5.mp4",
+      "bytes": 1331857,
+      "sha256": "c899f4f5510edf3a4f6aaddaf7d35975474f6400631dff805083f1750cca0ae5"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2737_wan",
+      "upstream_file": "vp2_2737_wan.mp4",
+      "file": "videos/32d9b137b1f1163c2494ad1331e27fdf54bd4f65bafe1698a29b8ae2f38dcdf0.mp4",
+      "bytes": 2628063,
+      "sha256": "32d9b137b1f1163c2494ad1331e27fdf54bd4f65bafe1698a29b8ae2f38dcdf0"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1313_ray2",
+      "upstream_file": "vp2_1313_ray2.mp4",
+      "file": "videos/c813d7b9c0be0ad5e673778a5dcf51474ffba35e0bfe90aec5586683873c0451.mp4",
+      "bytes": 1713763,
+      "sha256": "c813d7b9c0be0ad5e673778a5dcf51474ffba35e0bfe90aec5586683873c0451"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2492_wan",
+      "upstream_file": "vp2_2492_wan.mp4",
+      "file": "videos/e4549b6e9560d6e46161a77cf19b6c8d6aaf85cb3b7a709c30dfaf668910fa92.mp4",
+      "bytes": 1961605,
+      "sha256": "e4549b6e9560d6e46161a77cf19b6c8d6aaf85cb3b7a709c30dfaf668910fa92"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0672_ray2",
+      "upstream_file": "vp2_0672_ray2.mp4",
+      "file": "videos/e694820c6c9da1d3becb149413165269b1605e38f5313f059865e0eb9efae31f.mp4",
+      "bytes": 2235543,
+      "sha256": "e694820c6c9da1d3becb149413165269b1605e38f5313f059865e0eb9efae31f"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0441_wan",
+      "upstream_file": "vp2_0441_wan.mp4",
+      "file": "videos/d5490879a69ad719fb07ed5b09cc673b3282e5ad323bf3c2356c9052f6ce3381.mp4",
+      "bytes": 1891235,
+      "sha256": "d5490879a69ad719fb07ed5b09cc673b3282e5ad323bf3c2356c9052f6ce3381"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2227_wan",
+      "upstream_file": "vp2_2227_wan.mp4",
+      "file": "videos/a041ff40462fc6f9727e4a5c0fc22ab992489568fdd0e48c5ba7f6a1bb7c6107.mp4",
+      "bytes": 1016452,
+      "sha256": "a041ff40462fc6f9727e4a5c0fc22ab992489568fdd0e48c5ba7f6a1bb7c6107"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1230_cosmos",
+      "upstream_file": "vp2_1230_cosmos.mp4",
+      "file": "videos/7c48937da62ed6564693a12512856b0ee73a8376d5cb503f56b920cdebdbe0c2.mp4",
+      "bytes": 1135029,
+      "sha256": "7c48937da62ed6564693a12512856b0ee73a8376d5cb503f56b920cdebdbe0c2"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2015_cogvideo",
+      "upstream_file": "vp2_2015_cogvideo.mp4",
+      "file": "videos/0222e5312e3a4396c1ac3ef811690250132dedafd7bf877c2fb5f6c684141774.mp4",
+      "bytes": 115657,
+      "sha256": "0222e5312e3a4396c1ac3ef811690250132dedafd7bf877c2fb5f6c684141774"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0683_ray2",
+      "upstream_file": "vp2_0683_ray2.mp4",
+      "file": "videos/f8fad766be3ca2bda33de8e7b3c599f76566c2fc990c125a1b7411c13b99f9ba.mp4",
+      "bytes": 1602346,
+      "sha256": "f8fad766be3ca2bda33de8e7b3c599f76566c2fc990c125a1b7411c13b99f9ba"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1741_cogvideo",
+      "upstream_file": "vp2_1741_cogvideo.mp4",
+      "file": "videos/af0798ea6df6823bc7516c1a71475e9eb5b6fe6c4267a47293c02767850686c0.mp4",
+      "bytes": 235885,
+      "sha256": "af0798ea6df6823bc7516c1a71475e9eb5b6fe6c4267a47293c02767850686c0"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0926_wan",
+      "upstream_file": "vp2_0926_wan.mp4",
+      "file": "videos/02a08b41e0443757c5ac4cd8c92d3e478734b500b78e843ddcf9c8a12055ca1a.mp4",
+      "bytes": 2323948,
+      "sha256": "02a08b41e0443757c5ac4cd8c92d3e478734b500b78e843ddcf9c8a12055ca1a"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2742_wan",
+      "upstream_file": "vp2_2742_wan.mp4",
+      "file": "videos/4f77634480104b96587cbdc5f994383401e5a59087911ca097671a34376b503e.mp4",
+      "bytes": 2304372,
+      "sha256": "4f77634480104b96587cbdc5f994383401e5a59087911ca097671a34376b503e"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1993_wan",
+      "upstream_file": "vp2_1993_wan.mp4",
+      "file": "videos/09769ebde204601de68458868f10327f4014962be402bbcf271a25e57a15aa24.mp4",
+      "bytes": 1084611,
+      "sha256": "09769ebde204601de68458868f10327f4014962be402bbcf271a25e57a15aa24"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3169_cosmos",
+      "upstream_file": "vp2_3169_cosmos.mp4",
+      "file": "videos/5c5d4dea823a7ae6c5c4add95ceea6c930a2ed070507127e6841b5564b1eed8d.mp4",
+      "bytes": 776339,
+      "sha256": "5c5d4dea823a7ae6c5c4add95ceea6c930a2ed070507127e6841b5564b1eed8d"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3387_wan",
+      "upstream_file": "vp2_3387_wan.mp4",
+      "file": "videos/ac273b9dced430f696e0dff2cc60410ac33fafc2fe89dec09d419c9a19561c11.mp4",
+      "bytes": 5859968,
+      "sha256": "ac273b9dced430f696e0dff2cc60410ac33fafc2fe89dec09d419c9a19561c11"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0382_cosmos",
+      "upstream_file": "vp2_0382_cosmos.mp4",
+      "file": "videos/263eb0f2e82e20675ba33f8c0231fc9319173f1a8d42103a122e32f2a22d6fd2.mp4",
+      "bytes": 1380587,
+      "sha256": "263eb0f2e82e20675ba33f8c0231fc9319173f1a8d42103a122e32f2a22d6fd2"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2521_cosmos",
+      "upstream_file": "vp2_2521_cosmos.mp4",
+      "file": "videos/5283dc74c428f012d784173de6322f7a01becde56748db0e2c9869b37138229d.mp4",
+      "bytes": 1131337,
+      "sha256": "5283dc74c428f012d784173de6322f7a01becde56748db0e2c9869b37138229d"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0372_wan",
+      "upstream_file": "vp2_0372_wan.mp4",
+      "file": "videos/34cb9a8b0eead11bef9ac009daca6bb315785a230fbf1919ce5c41e73f702781.mp4",
+      "bytes": 2002481,
+      "sha256": "34cb9a8b0eead11bef9ac009daca6bb315785a230fbf1919ce5c41e73f702781"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2205_hunyuan",
+      "upstream_file": "vp2_2205_hunyuan.mp4",
+      "file": "videos/58dd481ce0d4e4ac8eb98e0e4e94c1ff1aa51085139e88b6523a7805f2c9c09e.mp4",
+      "bytes": 298187,
+      "sha256": "58dd481ce0d4e4ac8eb98e0e4e94c1ff1aa51085139e88b6523a7805f2c9c09e"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0078_wan",
+      "upstream_file": "vp2_0078_wan.mp4",
+      "file": "videos/7514a1efd91dfd8e4ada5877031118a490ed75c249b752bee7adc8dedce059d7.mp4",
+      "bytes": 1798778,
+      "sha256": "7514a1efd91dfd8e4ada5877031118a490ed75c249b752bee7adc8dedce059d7"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1191_wan",
+      "upstream_file": "vp2_1191_wan.mp4",
+      "file": "videos/1f80524688c37ec080229529dfac538c57b5194acbe840038e2c5f9076fc5566.mp4",
+      "bytes": 1329814,
+      "sha256": "1f80524688c37ec080229529dfac538c57b5194acbe840038e2c5f9076fc5566"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0605_cosmos",
+      "upstream_file": "vp2_0605_cosmos.mp4",
+      "file": "videos/5031889e5bc6f18dbe4379651628cde417face31fa169d5d581bda2f6ebd6196.mp4",
+      "bytes": 787616,
+      "sha256": "5031889e5bc6f18dbe4379651628cde417face31fa169d5d581bda2f6ebd6196"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2920_cogvideo",
+      "upstream_file": "vp2_2920_cogvideo.mp4",
+      "file": "videos/121aa24612aad41a52a5936a419c7bb1906bcd8e647a0d3456aabd0c9c44e0f6.mp4",
+      "bytes": 403268,
+      "sha256": "121aa24612aad41a52a5936a419c7bb1906bcd8e647a0d3456aabd0c9c44e0f6"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0708_cosmos",
+      "upstream_file": "vp2_0708_cosmos.mp4",
+      "file": "videos/90fad68e5c66b5f175e3d3257ee12445a63336299556b2d7887bd6fe3fa5e26c.mp4",
+      "bytes": 911656,
+      "sha256": "90fad68e5c66b5f175e3d3257ee12445a63336299556b2d7887bd6fe3fa5e26c"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1761_cosmos",
+      "upstream_file": "vp2_1761_cosmos.mp4",
+      "file": "videos/3a4f81cd7065d5d895ad69ee7b3a2907e4dc50fbc2fcc03988062e400b9e5095.mp4",
+      "bytes": 784015,
+      "sha256": "3a4f81cd7065d5d895ad69ee7b3a2907e4dc50fbc2fcc03988062e400b9e5095"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0918_hunyuan",
+      "upstream_file": "vp2_0918_hunyuan.mp4",
+      "file": "videos/cc68e16aa164f13bc179e10fd33c2296df6a0fb8f8cb7fcdefb22f401cd9a104.mp4",
+      "bytes": 112874,
+      "sha256": "cc68e16aa164f13bc179e10fd33c2296df6a0fb8f8cb7fcdefb22f401cd9a104"
+    },
+    {
+      "record_id": "videophy2::test::vp2_0901_cosmos",
+      "upstream_file": "vp2_0901_cosmos.mp4",
+      "file": "videos/8b8f77f516ed4ea018100c7d37a4d6c0fbc9518cc1e9dd1b7bb29ef0e328ad41.mp4",
+      "bytes": 477980,
+      "sha256": "8b8f77f516ed4ea018100c7d37a4d6c0fbc9518cc1e9dd1b7bb29ef0e328ad41"
+    },
+    {
+      "record_id": "videophy2::test::vp2_2408_sora",
+      "upstream_file": "vp2_2408_sora.mp4",
+      "file": "videos/d727a90cc1b68ee4a875dd6d67960b9dcf2aadb7b62ae5e071fbc18b83862f8e.mp4",
+      "bytes": 4809719,
+      "sha256": "d727a90cc1b68ee4a875dd6d67960b9dcf2aadb7b62ae5e071fbc18b83862f8e"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3015_wan",
+      "upstream_file": "vp2_3015_wan.mp4",
+      "file": "videos/ceac50ba0ab113dd213e250e694cc01a0c4b7e56293cfe9fe2faf78d5d55d9ab.mp4",
+      "bytes": 2262125,
+      "sha256": "ceac50ba0ab113dd213e250e694cc01a0c4b7e56293cfe9fe2faf78d5d55d9ab"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1851_ray2",
+      "upstream_file": "vp2_1851_ray2.mp4",
+      "file": "videos/ed7e0207f2112594135fe3d28ccdfedd524d19dc4d76fa4556b349f5274d27d7.mp4",
+      "bytes": 2225082,
+      "sha256": "ed7e0207f2112594135fe3d28ccdfedd524d19dc4d76fa4556b349f5274d27d7"
+    },
+    {
+      "record_id": "videophy2::test::vp2_3181_wan",
+      "upstream_file": "vp2_3181_wan.mp4",
+      "file": "videos/5cb62b2735123d8e82b29d7e768a3f78d4ec4f406467e8199d25261a2177f8f2.mp4",
+      "bytes": 1717058,
+      "sha256": "5cb62b2735123d8e82b29d7e768a3f78d4ec4f406467e8199d25261a2177f8f2"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1156_ray2",
+      "upstream_file": "vp2_1156_ray2.mp4",
+      "file": "videos/03e1c42e28ebbe01df2c684593a699159cc794fe69e8ce281b6dec0538f716df.mp4",
+      "bytes": 3622347,
+      "sha256": "03e1c42e28ebbe01df2c684593a699159cc794fe69e8ce281b6dec0538f716df"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1143_ray2",
+      "upstream_file": "vp2_1143_ray2.mp4",
+      "file": "videos/ed7924c6e967a709aa3c96e22d00355fd806f305157704c3cc7aed957e3c60c8.mp4",
+      "bytes": 1176807,
+      "sha256": "ed7924c6e967a709aa3c96e22d00355fd806f305157704c3cc7aed957e3c60c8"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1536_cogvideo",
+      "upstream_file": "vp2_1536_cogvideo.mp4",
+      "file": "videos/6b313a5333d81066ef92c52ddf06fd1ddf5b5376738fd520d6a30327832728bc.mp4",
+      "bytes": 290546,
+      "sha256": "6b313a5333d81066ef92c52ddf06fd1ddf5b5376738fd520d6a30327832728bc"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1529_cosmos",
+      "upstream_file": "vp2_1529_cosmos.mp4",
+      "file": "videos/d615d0dff6215af2c3e72a10783b50a071f62846516c34cba06a4897078efa4e.mp4",
+      "bytes": 554105,
+      "sha256": "d615d0dff6215af2c3e72a10783b50a071f62846516c34cba06a4897078efa4e"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1005_wan",
+      "upstream_file": "vp2_1005_wan.mp4",
+      "file": "videos/a40d25f9f3892067a8a5c426e114f095173c7ecb450d514d1caa3d6c69ffb88e.mp4",
+      "bytes": 3175547,
+      "sha256": "a40d25f9f3892067a8a5c426e114f095173c7ecb450d514d1caa3d6c69ffb88e"
+    },
+    {
+      "record_id": "videophy2::test::vp2_1797_ray2",
+      "upstream_file": "vp2_1797_ray2.mp4",
+      "file": "videos/046e4d94aa683a6cc4d88d2f8ef4589f6b1d83a5fef0e4b8c8320d720450ced1.mp4",
+      "bytes": 940085,
+      "sha256": "046e4d94aa683a6cc4d88d2f8ef4589f6b1d83a5fef0e4b8c8320d720450ced1"
+    }
+  ]
+}
